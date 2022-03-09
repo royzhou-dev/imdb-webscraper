@@ -1,0 +1,1001 @@
+,Title,Release Year,MPA Film Rating,Runtime,Genres,User Rating,Metascore,Director,Number of Votes,U.S. Box Office,Top 250 Ranking
+0,The Batman,2022,PG-13,175,"['Action', 'Crime', 'Drama']",8.5,72.0,Matt Reeves,160761,,72
+1,Spider-Man: No Way Home,2021,PG-13,148,"['Action', 'Adventure', 'Fantasy']",8.7,71.0,Jon Watts,491058,,41
+2,CODA,2021,PG-13,111,"['Comedy', 'Drama', 'Music']",8.1,74.0,Sian Heder,59036,,
+3,The Dark Knight,2008,PG-13,152,"['Action', 'Crime', 'Drama']",9.1,84.0,Christopher Nolan,2511518,534.86,3
+4,Dune,2021,PG-13,155,"['Action', 'Adventure', 'Drama']",8.1,74.0,Denis Villeneuve,504677,,231
+5,The Godfather,1972,R,175,"['Crime', 'Drama']",9.2,100.0,Francis Ford Coppola,1758935,134.97,2
+6,Knives Out,2019,PG-13,130,"['Comedy', 'Crime', 'Drama']",7.9,82.0,Rian Johnson,577260,165.36,
+7,Kingsman: The Secret Service,2014,R,129,"['Action', 'Adventure', 'Comedy']",7.7,60.0,Matthew Vaughn,644089,128.26,
+8,Batman Begins,2005,PG-13,140,"['Action', 'Crime', 'Drama']",8.3,70.0,Christopher Nolan,1402027,206.85,125
+9,The Dark Knight Rises,2012,PG-13,164,"['Action', 'Crime', 'Drama']",8.4,78.0,Christopher Nolan,1626954,448.14,68
+10,The Shawshank Redemption,1994,R,142,['Drama'],9.3,81.0,Frank Darabont,2555385,28.34,1
+11,Avengers: Endgame,2019,PG-13,181,"['Action', 'Adventure', 'Drama']",8.4,78.0,Anthony Russo,1022329,858.37,80
+12,Joker,2019,R,122,"['Crime', 'Drama', 'Thriller']",8.4,59.0,Todd Phillips,1155907,335.45,70
+13,300,2006,R,117,"['Action', 'Drama']",7.6,52.0,Zack Snyder,791594,210.61,
+14,Interstellar,2014,PG-13,169,"['Adventure', 'Drama', 'Sci-Fi']",8.7,74.0,Christopher Nolan,1700585,188.02,28
+15,Harry Potter and the Sorcerer's Stone,2001,PG,152,"['Adventure', 'Family', 'Fantasy']",7.6,65.0,Chris Columbus,743654,317.58,
+16,Zack Snyder's Justice League,2021,R,242,"['Action', 'Adventure', 'Fantasy']",8.1,54.0,Zack Snyder,363383,,
+17,Inception,2010,PG-13,148,"['Action', 'Adventure', 'Sci-Fi']",8.8,74.0,Christopher Nolan,2244172,292.58,13
+18,Once Upon a Time... In Hollywood,2019,R,161,"['Comedy', 'Drama']",7.6,83.0,Quentin Tarantino,674434,142.5,
+19,Hacksaw Ridge,2016,R,139,"['Biography', 'Drama', 'History']",8.1,71.0,Mel Gibson,493229,67.21,194
+20,The Wolf of Wall Street,2013,R,180,"['Biography', 'Comedy', 'Crime']",8.2,75.0,Martin Scorsese,1321798,116.9,134
+21,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,"['Action', 'Adventure', 'Drama']",8.9,92.0,Peter Jackson,1782651,315.54,9
+22,Ghostbusters,1984,PG,105,"['Action', 'Comedy', 'Fantasy']",7.8,71.0,Ivan Reitman,401244,238.63,
+23,Avengers: Infinity War,2018,PG-13,149,"['Action', 'Adventure', 'Sci-Fi']",8.5,68.0,Anthony Russo,989020,678.82,64
+24,Inglourious Basterds,2009,R,153,"['Adventure', 'Drama', 'War']",8.3,69.0,Quentin Tarantino,1378386,120.54,78
+25,Pulp Fiction,1994,R,154,"['Crime', 'Drama']",8.9,94.0,Quentin Tarantino,1964247,107.93,8
+26,Mad Max: Fury Road,2015,R,120,"['Action', 'Adventure', 'Sci-Fi']",8.1,90.0,George Miller,957887,154.06,202
+27,Fight Club,1999,R,139,['Drama'],8.8,66.0,David Fincher,2011872,37.03,12
+28,Se7en,1995,R,127,"['Crime', 'Drama', 'Mystery']",8.6,65.0,David Fincher,1567231,100.13,19
+29,Django Unchained,2012,R,165,"['Drama', 'Western']",8.5,81.0,Quentin Tarantino,1477082,162.81,57
+30,Titanic,1997,PG-13,194,"['Drama', 'Romance']",7.9,75.0,James Cameron,1123920,659.33,
+31,Forrest Gump,1994,PG-13,142,"['Drama', 'Romance']",8.8,82.0,Robert Zemeckis,1972135,330.25,11
+32,Prisoners,2013,R,153,"['Crime', 'Drama', 'Mystery']",8.1,70.0,Denis Villeneuve,668125,61.0,172
+33,Parasite,2019,R,132,"['Comedy', 'Drama', 'Thriller']",8.5,96.0,Bong Joon Ho,723936,53.37,35
+34,American Psycho,2000,R,102,"['Crime', 'Drama', 'Horror']",7.6,64.0,Mary Harron,553185,15.07,
+35,Deadpool,2016,R,108,"['Action', 'Adventure', 'Comedy']",8.0,65.0,Tim Miller,983715,363.07,
+36,The Gentlemen,2019,R,113,"['Action', 'Comedy', 'Crime']",7.8,51.0,Guy Ritchie,306264,,
+37,Deadpool 2,2018,R,119,"['Action', 'Adventure', 'Comedy']",7.7,66.0,David Leitch,544313,324.59,
+38,The Godfather: Part II,1974,R,202,"['Crime', 'Drama']",9.0,90.0,Francis Ford Coppola,1218604,57.3,4
+39,Jurassic Park,1993,PG-13,127,"['Action', 'Adventure', 'Sci-Fi']",8.2,68.0,Steven Spielberg,936310,402.45,150
+40,Schindler's List,1993,R,195,"['Biography', 'Drama', 'History']",9.0,94.0,Steven Spielberg,1303712,96.9,6
+41,Zodiac,2007,R,157,"['Crime', 'Drama', 'Mystery']",7.7,78.0,David Fincher,516658,33.08,
+42,The Green Mile,1999,R,189,"['Crime', 'Drama', 'Fantasy']",8.6,61.0,Frank Darabont,1243005,136.8,26
+43,Heat,1995,R,170,"['Action', 'Crime', 'Drama']",8.3,76.0,Michael Mann,627438,67.44,114
+44,Gone Girl,2014,R,149,"['Drama', 'Mystery', 'Thriller']",8.1,79.0,David Fincher,940481,167.77,181
+45,Léon: The Professional,1994,R,110,"['Action', 'Crime', 'Drama']",8.6,64.0,Luc Besson,1115530,19.5,33
+46,Watchmen,2009,R,162,"['Action', 'Drama', 'Mystery']",7.7,56.0,Zack Snyder,536314,107.51,
+47,Stand by Me,1986,R,89,"['Adventure', 'Drama']",8.1,75.0,Rob Reiner,389582,52.29,215
+48,Braveheart,1995,R,178,"['Biography', 'Drama', 'History']",8.4,68.0,Mel Gibson,1009586,75.6,74
+49,1917,2019,R,119,"['Action', 'Drama', 'War']",8.3,78.0,Sam Mendes,536570,159.23,123
+50,Gladiator,2000,R,155,"['Action', 'Adventure', 'Drama']",8.5,67.0,Ridley Scott,1440124,187.71,37
+51,Avatar,2009,PG-13,162,"['Action', 'Adventure', 'Fantasy']",7.9,83.0,James Cameron,1182807,760.51,
+52,Spider-Man: Into the Spider-Verse,2018,PG,117,"['Animation', 'Action', 'Adventure']",8.4,87.0,Bob Persichetti,475444,190.24,71
+53,Fargo,1996,R,98,"['Crime', 'Thriller']",8.1,85.0,Joel Coen,658787,24.61,170
+54,Sicario,2015,R,121,"['Action', 'Crime', 'Drama']",7.7,82.0,Denis Villeneuve,411462,46.89,
+55,There Will Be Blood,2007,R,158,['Drama'],8.2,93.0,Paul Thomas Anderson,563201,40.22,143
+56,Saving Private Ryan,1998,R,169,"['Drama', 'War']",8.6,91.0,Steven Spielberg,1332618,216.54,23
+57,Harry Potter and the Goblet of Fire,2005,PG-13,157,"['Adventure', 'Family', 'Fantasy']",7.7,81.0,Mike Newell,600762,290.01,
+58,Wind River,2017,R,107,"['Crime', 'Drama', 'Mystery']",7.7,73.0,Taylor Sheridan,239525,33.8,
+59,Blade Runner 2049,2017,R,164,"['Action', 'Drama', 'Mystery']",8.0,81.0,Denis Villeneuve,530534,92.05,
+60,Star Wars,1977,PG,121,"['Action', 'Adventure', 'Fantasy']",8.6,90.0,George Lucas,1309694,322.74,27
+61,The Matrix,1999,R,136,"['Action', 'Sci-Fi']",8.7,73.0,Lana Wachowski,1842272,171.48,16
+62,The Lord of the Rings: The Return of the King,2003,PG-13,201,"['Action', 'Adventure', 'Drama']",9.0,94.0,Peter Jackson,1760701,377.85,7
+63,Apocalypse Now,1979,R,147,"['Drama', 'Mystery', 'War']",8.5,94.0,Francis Ford Coppola,645362,83.47,54
+64,Whiplash,2014,R,106,"['Drama', 'Music']",8.5,88.0,Damien Chazelle,796006,13.09,44
+65,Goodfellas,1990,R,146,"['Biography', 'Crime', 'Drama']",8.7,90.0,Martin Scorsese,1103952,46.84,17
+66,Dunkirk,2017,PG-13,106,"['Action', 'Drama', 'History']",7.8,94.0,Christopher Nolan,621812,188.37,
+67,The Silence of the Lambs,1991,R,118,"['Crime', 'Drama', 'Thriller']",8.6,85.0,Jonathan Demme,1371797,130.74,22
+68,Come and See,1985,Not Rated,142,"['Drama', 'Thriller', 'War']",8.4,,Elem Klimov,73030,,106
+69,The Fugitive,1993,PG-13,130,"['Action', 'Crime', 'Drama']",7.8,87.0,Andrew Davis,286169,183.88,
+70,Guardians of the Galaxy,2014,PG-13,121,"['Action', 'Adventure', 'Comedy']",8.1,76.0,James Gunn,1128071,333.18,
+71,Pride & Prejudice,2005,PG,129,"['Drama', 'Romance']",7.8,82.0,Joe Wright,284062,38.41,
+72,The Prestige,2006,PG-13,130,"['Drama', 'Mystery', 'Thriller']",8.5,66.0,Christopher Nolan,1281493,53.09,42
+73,Baby Driver,2017,R,113,"['Action', 'Crime', 'Drama']",7.6,86.0,Edgar Wright,503304,107.83,
+74,Thor: Ragnarok,2017,PG-13,130,"['Action', 'Adventure', 'Comedy']",7.9,74.0,Taika Waititi,684426,315.06,
+75,The Grand Budapest Hotel,2014,R,99,"['Adventure', 'Comedy', 'Crime']",8.1,88.0,Wes Anderson,772585,59.1,191
+76,Back to the Future,1985,PG,116,"['Adventure', 'Comedy', 'Sci-Fi']",8.6,87.0,Robert Zemeckis,1148055,210.61,30
+77,American Beauty,1999,R,122,['Drama'],8.4,84.0,Sam Mendes,1124855,130.1,67
+78,Hamilton,2020,PG-13,160,"['Biography', 'Drama', 'History']",8.4,90.0,Thomas Kail,83993,,110
+79,The Princess Bride,1987,PG,98,"['Adventure', 'Family', 'Fantasy']",8.0,77.0,Rob Reiner,418417,30.86,
+80,The Departed,2006,R,151,"['Crime', 'Drama', 'Thriller']",8.5,85.0,Martin Scorsese,1274110,132.38,40
+81,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,"['Action', 'Adventure', 'Fantasy']",8.1,63.0,Gore Verbinski,1066202,305.41,238
+82,Little Women,2019,PG,135,"['Drama', 'Romance']",7.8,91.0,Greta Gerwig,185873,108.1,
+83,Scarface,1983,R,170,"['Crime', 'Drama']",8.3,65.0,Brian De Palma,802328,45.6,104
+84,Jojo Rabbit,2019,PG-13,108,"['Comedy', 'Drama', 'War']",7.9,58.0,Taika Waititi,360877,0.35,
+85,Requiem for a Dream,2000,R,102,['Drama'],8.3,68.0,Darren Aronofsky,813834,3.64,85
+86,Tombstone,1993,R,130,"['Action', 'Biography', 'Drama']",7.8,50.0,George P. Cosmatos,142002,56.51,
+87,Call Me by Your Name,2017,R,132,"['Drama', 'Romance']",7.9,93.0,Luca Guadagnino,252542,18.1,
+88,Memento,2000,R,113,"['Mystery', 'Thriller']",8.5,80.0,Christopher Nolan,1197373,25.54,53
+89,No Country for Old Men,2007,R,122,"['Crime', 'Drama', 'Thriller']",8.2,91.0,Ethan Coen,931086,74.28,153
+90,12 Angry Men,1957,Approved,96,"['Crime', 'Drama']",9.0,96.0,Sidney Lumet,755173,4.36,5
+91,Moana,2016,PG,107,"['Animation', 'Adventure', 'Comedy']",7.6,81.0,Ron Clements,314677,248.76,
+92,The Hangover,2009,R,100,['Comedy'],7.7,73.0,Todd Phillips,761162,277.32,
+93,Taxi Driver,1976,R,114,"['Crime', 'Drama']",8.3,94.0,Martin Scorsese,786647,28.26,108
+94,Good Will Hunting,1997,R,126,"['Drama', 'Romance']",8.3,70.0,Gus Van Sant,927960,138.43,83
+95,Shutter Island,2010,R,138,"['Mystery', 'Thriller']",8.2,63.0,Martin Scorsese,1242104,128.01,147
+96,Little Miss Sunshine,2006,R,101,"['Comedy', 'Drama']",7.8,80.0,Jonathan Dayton,464930,59.89,
+97,Get Out,2017,R,104,"['Horror', 'Mystery', 'Thriller']",7.7,85.0,Jordan Peele,552754,176.04,
+98,The Mitchells vs the Machines,2021,PG,113,"['Animation', 'Adventure', 'Comedy']",7.7,81.0,Michael Rianda,93425,,
+99,The Hobbit: An Unexpected Journey,2012,PG-13,169,"['Adventure', 'Fantasy']",7.8,58.0,Peter Jackson,798611,303.0,
+100,Logan,2017,R,137,"['Action', 'Drama', 'Sci-Fi']",8.1,77.0,James Mangold,717551,226.28,219
+101,Donnie Darko,2001,R,113,"['Drama', 'Mystery', 'Sci-Fi']",8.0,88.0,Richard Kelly,778182,1.48,
+102,The Father,2020,PG-13,97,"['Drama', 'Mystery']",8.3,88.0,Florian Zeller,127591,,131
+103,Her,2013,R,126,"['Drama', 'Romance', 'Sci-Fi']",8.0,91.0,Spike Jonze,585005,25.57,
+104,The Usual Suspects,1995,R,106,"['Crime', 'Drama', 'Mystery']",8.5,77.0,Bryan Singer,1052861,23.34,39
+105,Indiana Jones and the Raiders of the Lost Ark,1981,PG,115,"['Action', 'Adventure']",8.4,85.0,Steven Spielberg,936714,248.16,56
+106,X-Men: First Class,2011,PG-13,131,"['Action', 'Adventure', 'Sci-Fi']",7.7,65.0,Matthew Vaughn,675254,146.41,
+107,Iron Man,2008,PG-13,126,"['Action', 'Adventure', 'Sci-Fi']",7.9,79.0,Jon Favreau,1016346,318.41,
+108,The Big Short,2015,R,130,"['Biography', 'Comedy', 'Drama']",7.8,81.0,Adam McKay,410508,70.26,
+109,The Avengers,2012,PG-13,143,"['Action', 'Adventure', 'Sci-Fi']",8.1,69.0,Joss Whedon,1342583,623.28,
+110,Harry Potter and the Deathly Hallows: Part 1,2010,PG-13,146,"['Adventure', 'Family', 'Fantasy']",7.7,65.0,David Yates,524856,295.98,
+111,Eternal Sunshine of the Spotless Mind,2004,R,108,"['Drama', 'Romance', 'Sci-Fi']",8.3,89.0,Michel Gondry,971515,34.4,91
+112,The Graduate,1967,PG,106,"['Comedy', 'Drama', 'Romance']",8.0,83.0,Mike Nichols,267606,104.95,
+113,The Social Network,2010,PG-13,120,"['Biography', 'Drama']",7.8,95.0,David Fincher,676528,96.96,
+114,Alien,1979,R,117,"['Horror', 'Sci-Fi']",8.5,89.0,Ridley Scott,845597,78.9,50
+115,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,"['Adventure', 'Fantasy', 'Mystery']",8.2,85.0,David Yates,835415,381.01,179
+116,Jaws,1975,PG,124,"['Adventure', 'Thriller']",8.1,87.0,Steven Spielberg,576009,260.0,206
+117,Serenity,2005,PG-13,119,"['Action', 'Adventure', 'Sci-Fi']",7.8,74.0,Joss Whedon,292687,25.51,
+118,Bohemian Rhapsody,2018,PG-13,134,"['Biography', 'Drama', 'Music']",8.0,49.0,Bryan Singer,509452,216.43,
+119,Dawn of the Planet of the Apes,2014,PG-13,130,"['Action', 'Adventure', 'Drama']",7.6,79.0,Matt Reeves,430618,208.55,
+120,The Goonies,1985,PG,114,"['Adventure', 'Comedy', 'Family']",7.7,62.0,Richard Donner,262790,61.5,
+121,The Shining,1980,R,146,"['Drama', 'Horror']",8.4,66.0,Stanley Kubrick,974421,44.02,61
+122,The Revenant,2015,R,156,"['Action', 'Adventure', 'Drama']",8.0,76.0,Alejandro G. Iñárritu,769672,183.64,
+123,The Sixth Sense,1999,PG-13,107,"['Drama', 'Mystery', 'Thriller']",8.2,64.0,M. Night Shyamalan,961417,293.51,141
+124,Boogie Nights,1997,R,155,['Drama'],7.9,85.0,Paul Thomas Anderson,257170,26.4,
+125,The Big Lebowski,1998,R,117,"['Comedy', 'Crime']",8.1,71.0,Joel Coen,784358,17.5,200
+126,Harry Potter and the Prisoner of Azkaban,2004,PG,142,"['Adventure', 'Family', 'Fantasy']",7.9,82.0,Alfonso Cuarón,607340,249.36,
+127,The Lord of the Rings: The Two Towers,2002,PG-13,179,"['Action', 'Adventure', 'Drama']",8.8,87.0,Peter Jackson,1590751,342.55,14
+128,One Flew Over the Cuckoo's Nest,1975,R,133,['Drama'],8.7,84.0,Milos Forman,975636,112.0,18
+129,Kick-Ass,2010,R,117,"['Action', 'Comedy', 'Crime']",7.6,66.0,Matthew Vaughn,549364,48.07,
+130,The Irishman,2019,R,209,"['Biography', 'Crime', 'Drama']",7.8,94.0,Martin Scorsese,366696,7.0,
+131,Once Upon a Time in America,1984,R,229,"['Crime', 'Drama']",8.4,75.0,Sergio Leone,339460,5.32,82
+132,Blade Runner,1982,R,117,"['Action', 'Drama', 'Sci-Fi']",8.1,84.0,Ridley Scott,742324,32.87,174
+133,Hidden Figures,2016,PG,127,"['Biography', 'Drama', 'History']",7.8,74.0,Theodore Melfi,219804,169.61,
+134,Warrior,2011,PG-13,140,"['Action', 'Drama', 'Sport']",8.2,71.0,Gavin O'Connor,459823,13.66,168
+135,The Lion King,1994,G,88,"['Animation', 'Adventure', 'Drama']",8.5,88.0,Roger Allers,1013471,422.78,36
+136,The Apartment,1960,Approved,125,"['Comedy', 'Drama', 'Romance']",8.3,94.0,Billy Wilder,176665,18.6,107
+137,Almost Famous,2000,R,122,"['Adventure', 'Comedy', 'Drama']",7.9,90.0,Cameron Crowe,270419,32.53,
+138,Black Swan,2010,R,108,"['Drama', 'Thriller']",8.0,79.0,Darren Aronofsky,740320,106.95,
+139,Network,1976,R,121,['Drama'],8.1,83.0,Sidney Lumet,155665,,221
+140,Coco,2017,PG,105,"['Animation', 'Adventure', 'Comedy']",8.4,81.0,Lee Unkrich,466107,209.73,77
+141,The Girl with the Dragon Tattoo,2011,R,158,"['Crime', 'Drama', 'Mystery']",7.8,71.0,David Fincher,452089,102.52,
+142,Rogue One: A Star Wars Story,2016,PG-13,133,"['Action', 'Adventure', 'Sci-Fi']",7.8,65.0,Gareth Edwards,598871,532.18,
+143,Green Book,2018,PG-13,130,"['Biography', 'Comedy', 'Drama']",8.2,69.0,Peter Farrelly,454204,85.08,133
+144,Zootopia,2016,PG,108,"['Animation', 'Adventure', 'Comedy']",8.0,78.0,Byron Howard,475530,341.27,
+145,12 Years a Slave,2013,R,134,"['Biography', 'Drama', 'History']",8.1,96.0,Steve McQueen,680229,56.67,183
+146,Old Boy,2003,R,120,"['Action', 'Drama', 'Mystery']",8.4,77.0,Park Chan-wook,556652,0.71,73
+147,Some Like It Hot,1959,Passed,121,"['Comedy', 'Music', 'Romance']",8.2,98.0,Billy Wilder,260194,25.0,130
+148,Terminator 2: Judgment Day,1991,R,137,"['Action', 'Sci-Fi']",8.6,75.0,James Cameron,1059234,204.84,29
+149,Harry Potter and the Half-Blood Prince,2009,PG,153,"['Action', 'Adventure', 'Family']",7.6,78.0,David Yates,521668,301.96,
+150,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,"['Comedy', 'War']",8.4,97.0,Stanley Kubrick,476660,0.28,69
+151,Atonement,2007,R,123,"['Drama', 'Mystery', 'Romance']",7.8,85.0,Joe Wright,270037,50.93,
+152,The Fifth Element,1997,PG-13,126,"['Action', 'Adventure', 'Sci-Fi']",7.7,52.0,Luc Besson,459699,63.54,
+153,Ocean's Eleven,2001,PG-13,116,"['Crime', 'Thriller']",7.7,74.0,Steven Soderbergh,553283,183.42,
+154,A Clockwork Orange,1971,R,136,"['Crime', 'Sci-Fi']",8.3,77.0,Stanley Kubrick,803409,6.21,102
+155,Dazed and Confused,1993,R,102,['Comedy'],7.6,78.0,Richard Linklater,178146,7.99,
+156,Jai Bhim,2021,TV-MA,164,"['Crime', 'Drama', 'Mystery']",9.5,,T.J. Gnanavel,177106,,248
+157,V for Vendetta,2005,R,132,"['Action', 'Drama', 'Sci-Fi']",8.2,62.0,James McTeigue,1090961,70.51,156
+158,Spirited Away,2001,PG,125,"['Animation', 'Adventure', 'Family']",8.6,96.0,Hayao Miyazaki,721951,10.06,31
+159,Catch Me If You Can,2002,PG-13,141,"['Biography', 'Crime', 'Drama']",8.1,75.0,Steven Spielberg,925865,164.62,176
+160,The Pianist,2002,R,150,"['Biography', 'Drama', 'Music']",8.6,85.0,Roman Polanski,796776,32.57,34
+161,Casino,1995,R,178,"['Crime', 'Drama']",8.2,73.0,Martin Scorsese,501355,42.44,136
+162,Blue Is the Warmest Colour,2013,NC-17,180,"['Drama', 'Romance']",7.7,89.0,Abdellatif Kechiche,148200,2.2,
+163,Snatch,2000,R,102,"['Comedy', 'Crime']",8.3,55.0,Guy Ritchie,830247,30.33,116
+164,The Imitation Game,2014,PG-13,114,"['Biography', 'Drama', 'Thriller']",8.0,71.0,Morten Tyldum,740442,91.13,
+165,A Star Is Born,2018,R,136,"['Drama', 'Music', 'Romance']",7.6,88.0,Bradley Cooper,369240,215.29,
+166,The Perks of Being a Wallflower,2012,PG-13,103,"['Drama', 'Romance']",8.0,67.0,Stephen Chbosky,493853,17.74,
+167,Hell or High Water,2016,R,102,"['Action', 'Crime', 'Drama']",7.6,88.0,David Mackenzie,222705,26.86,
+168,The Hateful Eight,2015,R,168,"['Crime', 'Drama', 'Mystery']",7.8,68.0,Quentin Tarantino,571757,54.12,
+169,Drive,2011,R,100,"['Action', 'Drama']",7.8,78.0,Nicolas Winding Refn,611555,35.06,
+170,"The Good, the Bad and the Ugly",1966,R,178,"['Adventure', 'Western']",8.8,90.0,Sergio Leone,736489,6.1,10
+171,Captain America: Civil War,2016,PG-13,147,"['Action', 'Adventure', 'Sci-Fi']",7.8,75.0,Anthony Russo,742595,408.08,
+172,Into the Wild,2007,R,148,"['Adventure', 'Biography', 'Drama']",8.1,73.0,Sean Penn,607851,18.35,217
+173,Aliens,1986,R,137,"['Action', 'Adventure', 'Sci-Fi']",8.4,84.0,James Cameron,694198,85.16,66
+174,La La Land,2016,PG-13,128,"['Comedy', 'Drama', 'Music']",8.0,94.0,Damien Chazelle,558600,151.1,
+175,The Notebook,2004,PG-13,123,"['Drama', 'Romance']",7.8,53.0,Nick Cassavetes,554023,81.0,
+176,Casino Royale,2006,PG-13,144,"['Action', 'Adventure', 'Thriller']",8.0,80.0,Martin Campbell,639590,167.45,
+177,Star Wars: Episode VII - The Force Awakens,2015,PG-13,138,"['Action', 'Adventure', 'Sci-Fi']",7.9,80.0,J.J. Abrams,902772,936.66,
+178,Life Is Beautiful,1997,PG-13,116,"['Comedy', 'Drama', 'Romance']",8.6,59.0,Roberto Benigni,670532,57.6,25
+179,Ex Machina,2014,R,108,"['Drama', 'Sci-Fi', 'Thriller']",7.7,78.0,Alex Garland,519625,25.44,
+180,Superbad,2007,R,113,['Comedy'],7.6,76.0,Greg Mottola,557586,121.46,
+181,Another Round,2020,Not Rated,117,"['Comedy', 'Drama']",7.7,79.0,Thomas Vinterberg,136659,,
+182,Stardust,2007,PG-13,127,"['Adventure', 'Family', 'Fantasy']",7.6,66.0,Matthew Vaughn,267803,38.63,
+183,The Sandlot,1993,PG,101,"['Comedy', 'Drama', 'Family']",7.8,55.0,David Mickey Evans,87864,32.42,
+184,2001: A Space Odyssey,1968,G,149,"['Adventure', 'Sci-Fi']",8.3,84.0,Stanley Kubrick,645921,56.95,92
+185,The Truman Show,1998,PG,103,"['Comedy', 'Drama']",8.2,90.0,Peter Weir,1023067,125.62,144
+186,The Handmaiden,2016,Not Rated,145,"['Drama', 'Romance', 'Thriller']",8.1,84.0,Park Chan-wook,135655,2.01,250
+187,Shrek,2001,PG,90,"['Animation', 'Adventure', 'Comedy']",7.9,84.0,Andrew Adamson,653349,267.67,
+188,Ratatouille,2007,G,111,"['Animation', 'Adventure', 'Comedy']",8.1,96.0,Brad Bird,690300,206.45,224
+189,The Godfather: Part III,1990,R,162,"['Crime', 'Drama']",7.6,60.0,Francis Ford Coppola,383982,66.67,
+190,Black Hawk Down,2001,R,144,"['Action', 'Drama', 'History']",7.7,74.0,Ridley Scott,386117,108.64,
+191,Guardians of the Galaxy Vol. 2,2017,PG-13,136,"['Action', 'Adventure', 'Comedy']",7.6,67.0,James Gunn,640101,389.81,
+192,Star Trek,2009,PG-13,127,"['Action', 'Adventure', 'Sci-Fi']",8.0,82.0,J.J. Abrams,595967,257.73,
+193,About Time,2013,R,123,"['Comedy', 'Drama', 'Fantasy']",7.8,55.0,Richard Curtis,333364,15.32,
+194,True Romance,1993,R,119,"['Crime', 'Drama', 'Romance']",7.9,59.0,Tony Scott,221482,12.28,
+195,Apollo 13,1995,PG,140,"['Adventure', 'Drama', 'History']",7.7,77.0,Ron Howard,287340,173.84,
+196,Kill Bill: Vol. 1,2003,R,111,"['Action', 'Crime', 'Drama']",8.2,69.0,Quentin Tarantino,1074158,70.1,151
+197,Predator,1987,R,107,"['Action', 'Adventure', 'Horror']",7.8,45.0,John McTiernan,396708,59.74,
+198,City of God,2002,R,130,"['Crime', 'Drama']",8.6,79.0,Fernando Meirelles,736290,7.56,24
+199,The Hunt,2012,R,115,['Drama'],8.3,77.0,Thomas Vinterberg,315633,0.69,99
+200,Arrival,2016,PG-13,116,"['Drama', 'Sci-Fi']",7.9,81.0,Denis Villeneuve,662397,100.55,
+201,Brokeback Mountain,2005,R,134,"['Drama', 'Romance']",7.7,87.0,Ang Lee,347144,83.04,
+202,The Incredibles,2004,PG,115,"['Animation', 'Action', 'Adventure']",8.1,90.0,Brad Bird,698869,261.44,226
+203,The Terminator,1984,R,107,"['Action', 'Sci-Fi']",8.1,84.0,James Cameron,834399,38.4,214
+204,Reservoir Dogs,1992,R,99,"['Crime', 'Drama', 'Thriller']",8.3,79.0,Quentin Tarantino,981964,2.83,90
+205,"Three Billboards Outside Ebbing, Missouri",2017,R,115,"['Comedy', 'Crime', 'Drama']",8.1,88.0,Martin McDonagh,484187,54.51,167
+206,Mulholland Drive,2001,R,147,"['Drama', 'Mystery', 'Thriller']",7.9,85.0,David Lynch,345450,7.22,
+207,Full Metal Jacket,1987,R,116,"['Drama', 'War']",8.3,76.0,Stanley Kubrick,717637,46.36,103
+208,Taken,2008,PG-13,90,"['Action', 'Crime', 'Thriller']",7.8,51.0,Pierre Morel,590201,145.0,
+209,Star Wars: Episode III - Revenge of the Sith,2005,PG-13,140,"['Action', 'Adventure', 'Fantasy']",7.6,68.0,George Lucas,756385,380.26,
+210,Nightcrawler,2014,R,117,"['Crime', 'Drama', 'Thriller']",7.9,76.0,Dan Gilroy,515263,32.38,
+211,American History X,1998,R,119,['Drama'],8.5,62.0,Tony Kaye,1088846,6.72,38
+212,Downfall,2004,R,156,"['Biography', 'Drama', 'History']",8.2,82.0,Oliver Hirschbiegel,347983,5.51,128
+213,Man on Fire,2004,R,146,"['Action', 'Crime', 'Drama']",7.7,47.0,Tony Scott,353681,77.91,
+214,L.A. Confidential,1997,R,138,"['Crime', 'Drama', 'Mystery']",8.3,90.0,Curtis Hanson,566621,64.62,112
+215,Trainspotting,1996,R,93,['Drama'],8.2,83.0,Danny Boyle,669084,16.5,166
+216,The Breakfast Club,1985,R,97,"['Comedy', 'Drama']",7.8,66.0,John Hughes,382099,45.88,
+217,Love Actually,2003,R,135,"['Comedy', 'Drama', 'Romance']",7.6,55.0,Richard Curtis,472396,59.7,
+218,The Help,2011,PG-13,146,['Drama'],8.1,62.0,Tate Taylor,445999,169.71,249
+219,The Exorcist,1973,R,122,['Horror'],8.1,81.0,William Friedkin,386865,232.91,223
+220,Edge of Tomorrow,2014,PG-13,113,"['Action', 'Adventure', 'Sci-Fi']",7.9,71.0,Doug Liman,649846,100.21,
+221,Airplane!,1980,PG,88,['Comedy'],7.7,78.0,Jim Abrahams,231153,83.4,
+222,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,"['Action', 'Adventure', 'Fantasy']",8.7,82.0,Irvin Kershner,1238235,290.48,15
+223,Argo,2012,R,120,"['Biography', 'Drama', 'Thriller']",7.7,86.0,Ben Affleck,601335,136.03,
+224,Ford v Ferrari,2019,PG-13,152,"['Action', 'Biography', 'Drama']",8.1,81.0,James Mangold,358065,117.62,213
+225,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,"['Action', 'Adventure', 'Fantasy']",8.3,58.0,Richard Marquand,1012102,309.13,89
+226,Midnight in Paris,2011,PG-13,94,"['Comedy', 'Fantasy', 'Romance']",7.7,81.0,Woody Allen,412815,56.82,
+227,A Few Good Men,1992,R,138,"['Drama', 'Thriller']",7.7,62.0,Rob Reiner,253737,141.34,
+228,A Beautiful Mind,2001,PG-13,135,"['Biography', 'Drama']",8.2,72.0,Ron Howard,902470,170.74,140
+229,Die Hard,1988,R,132,"['Action', 'Thriller']",8.3,72.0,John McTiernan,850942,83.01,117
+230,Mission: Impossible - Fallout,2018,PG-13,147,"['Action', 'Adventure', 'Thriller']",7.7,86.0,Christopher McQuarrie,317769,220.16,
+231,Nosferatu,1922,Not Rated,94,"['Fantasy', 'Horror']",7.9,,F.W. Murnau,94423,,
+232,True Grit,2010,PG-13,110,"['Drama', 'Western']",7.6,80.0,Ethan Coen,331566,171.24,
+233,The Martian,2015,PG-13,144,"['Adventure', 'Drama', 'Sci-Fi']",8.0,80.0,Ridley Scott,820030,228.43,
+234,Donnie Brasco,1997,R,127,"['Biography', 'Crime', 'Drama']",7.7,76.0,Mike Newell,297799,41.91,
+235,Despicable Me,2010,PG,95,"['Animation', 'Adventure', 'Comedy']",7.6,72.0,Pierre Coffin,529067,251.51,
+236,The Hobbit: The Desolation of Smaug,2013,PG-13,161,"['Adventure', 'Fantasy']",7.8,66.0,Peter Jackson,638171,258.37,
+237,Soul,2020,PG,100,"['Animation', 'Adventure', 'Comedy']",8.1,83.0,Pete Docter,301731,,
+238,Psycho,1960,R,109,"['Horror', 'Mystery', 'Thriller']",8.5,97.0,Alfred Hitchcock,647560,32.0,32
+239,Moonrise Kingdom,2012,PG-13,94,"['Comedy', 'Drama', 'Romance']",7.8,84.0,Wes Anderson,341216,45.51,
+240,Captain America: The Winter Soldier,2014,PG-13,136,"['Action', 'Adventure', 'Sci-Fi']",7.8,70.0,Anthony Russo,806667,259.77,
+241,Dead Poets Society,1989,PG,128,"['Comedy', 'Drama']",8.1,79.0,Peter Weir,465745,95.86,210
+242,Casablanca,1942,PG,102,"['Drama', 'Romance', 'War']",8.5,100.0,Michael Curtiz,555345,1.02,43
+243,The Blind Side,2009,PG-13,129,"['Biography', 'Drama', 'Sport']",7.6,53.0,John Lee Hancock,319322,255.96,
+244,Toy Story,1995,G,81,"['Animation', 'Adventure', 'Comedy']",8.3,95.0,John Lasseter,953690,191.8,75
+245,Pan's Labyrinth,2006,R,118,"['Drama', 'Fantasy', 'War']",8.2,98.0,Guillermo del Toro,651628,37.63,137
+246,E.T. the Extra-Terrestrial,1982,PG,115,"['Adventure', 'Family', 'Sci-Fi']",7.9,91.0,Steven Spielberg,395892,435.11,
+247,Gran Torino,2008,R,116,['Drama'],8.1,72.0,Clint Eastwood,756703,148.1,169
+248,The Butterfly Effect,2004,R,113,"['Drama', 'Sci-Fi', 'Thriller']",7.7,30.0,Eric Bress,476897,57.94,
+249,Home Alone,1990,PG,103,"['Comedy', 'Family']",7.7,63.0,Chris Columbus,548867,285.76,
+250,Skyfall,2012,PG-13,143,"['Action', 'Adventure', 'Thriller']",7.8,81.0,Sam Mendes,680631,304.36,
+251,Moneyball,2011,PG-13,133,"['Biography', 'Drama', 'Sport']",7.6,87.0,Bennett Miller,406225,75.61,
+252,Unforgiven,1992,R,130,"['Drama', 'Western']",8.2,85.0,Clint Eastwood,400811,101.16,135
+253,Office Space,1999,R,89,['Comedy'],7.7,68.0,Mike Judge,258122,10.82,
+254,Howl's Moving Castle,2004,PG,119,"['Animation', 'Adventure', 'Family']",8.2,80.0,Hayao Miyazaki,373459,4.71,164
+255,The Curious Case of Benjamin Button,2008,PG-13,166,"['Drama', 'Fantasy', 'Romance']",7.8,70.0,David Fincher,629857,127.51,
+256,The Deer Hunter,1978,R,183,"['Drama', 'War']",8.1,86.0,Michael Cimino,331323,48.98,185
+257,Ferris Bueller's Day Off,1986,PG-13,103,['Comedy'],7.8,61.0,John Hughes,345032,70.14,
+258,The Intouchables,2011,R,112,"['Biography', 'Comedy', 'Drama']",8.5,57.0,Olivier Nakache,822729,13.18,45
+259,Training Day,2001,R,122,"['Action', 'Crime', 'Drama']",7.7,69.0,Antoine Fuqua,420203,76.63,
+260,Inside Out,2015,PG,95,"['Animation', 'Adventure', 'Comedy']",8.2,94.0,Pete Docter,678639,356.46,159
+261,The Sound of Music,1965,G,172,"['Biography', 'Drama', 'Family']",8.1,63.0,Robert Wise,222901,163.21,239
+262,What We Do in the Shadows,2014,R,86,"['Comedy', 'Horror']",7.7,76.0,Jemaine Clement,175469,3.33,
+263,Straight Outta Compton,2015,R,147,"['Biography', 'Drama', 'History']",7.8,72.0,F. Gary Gray,195151,161.2,
+264,Apocalypto,2006,R,139,"['Action', 'Adventure', 'Drama']",7.8,68.0,Mel Gibson,305679,50.87,
+265,X-Men: Days of Future Past,2014,PG-13,132,"['Action', 'Adventure', 'Sci-Fi']",8.0,75.0,Bryan Singer,692816,233.92,
+266,The Game,1997,R,129,"['Drama', 'Mystery', 'Thriller']",7.8,61.0,David Fincher,379759,48.32,
+267,Your Name.,2016,PG,106,"['Animation', 'Drama', 'Fantasy']",8.4,79.0,Makoto Shinkai,243664,5.02,88
+268,Platoon,1986,R,120,"['Drama', 'War']",8.1,92.0,Oliver Stone,403541,138.53,212
+269,The Wizard of Oz,1939,PG,102,"['Adventure', 'Family', 'Fantasy']",8.1,92.0,Victor Fleming,386115,2.08,218
+270,Tangled,2010,PG,100,"['Animation', 'Adventure', 'Comedy']",7.8,71.0,Nathan Greno,435792,200.82,
+271,The Thing,1982,R,109,"['Horror', 'Mystery', 'Sci-Fi']",8.2,57.0,John Carpenter,405262,13.78,161
+272,Finding Nemo,2003,G,100,"['Animation', 'Adventure', 'Comedy']",8.2,90.0,Andrew Stanton,1008221,380.84,152
+273,Dances with Wolves,1990,PG-13,181,"['Adventure', 'Drama', 'Western']",8.1,72.0,Kevin Costner,256403,184.21,
+274,Inside Man,2006,R,129,"['Crime', 'Drama', 'Mystery']",7.6,76.0,Spike Lee,363271,88.51,
+275,Silver Linings Playbook,2012,R,122,"['Comedy', 'Drama', 'Romance']",7.7,81.0,David O. Russell,694364,132.09,
+276,Judgment at Nuremberg,1961,Approved,179,"['Drama', 'War']",8.3,60.0,Stanley Kramer,75552,,138
+277,Spotlight,2015,R,129,"['Biography', 'Crime', 'Drama']",8.1,93.0,Tom McCarthy,455091,45.06,220
+278,Willy Wonka & the Chocolate Factory,1971,G,100,"['Family', 'Fantasy', 'Musical']",7.8,67.0,Mel Stuart,194737,4.0,
+279,Rocky,1976,PG,120,"['Drama', 'Sport']",8.1,70.0,John G. Avildsen,554569,117.24,209
+280,The Hurt Locker,2008,R,131,"['Drama', 'Thriller', 'War']",7.6,95.0,Kathryn Bigelow,442007,17.02,
+281,Fantastic Mr. Fox,2009,PG,87,"['Animation', 'Adventure', 'Comedy']",7.9,83.0,Wes Anderson,222120,21.0,
+282,Hot Fuzz,2007,R,121,"['Action', 'Comedy', 'Mystery']",7.8,81.0,Edgar Wright,492265,23.64,
+283,The Reader,2008,R,124,"['Drama', 'Romance']",7.6,58.0,Stephen Daldry,240135,34.19,
+284,Chinatown,1974,R,130,"['Drama', 'Mystery', 'Thriller']",8.2,92.0,Roman Polanski,316849,8.49,158
+285,Amadeus,1984,R,160,"['Biography', 'Drama', 'Music']",8.4,88.0,Milos Forman,390672,51.97,76
+286,Amélie,2001,R,122,"['Comedy', 'Romance']",8.3,69.0,Jean-Pierre Jeunet,738413,33.23,101
+287,American Gangster,2007,R,157,"['Biography', 'Crime', 'Drama']",7.8,76.0,Ridley Scott,416110,130.16,
+288,Paddington 2,2017,PG,103,"['Adventure', 'Comedy', 'Family']",7.8,88.0,Paul King,71965,40.44,
+289,Crash,2004,R,112,"['Crime', 'Drama', 'Thriller']",7.8,66.0,Paul Haggis,431571,54.58,
+290,Room,2015,R,118,"['Drama', 'Thriller']",8.1,86.0,Lenny Abrahamson,404681,14.68,192
+291,Captain Fantastic,2016,R,118,"['Comedy', 'Drama']",7.8,72.0,Matt Ross,211792,5.88,
+292,Rise of the Planet of the Apes,2011,PG-13,105,"['Action', 'Drama', 'Sci-Fi']",7.6,68.0,Rupert Wyatt,516523,176.76,
+293,3 Idiots,2009,PG-13,170,"['Comedy', 'Drama']",8.5,67.0,Rajkumar Hirani,380199,6.53,86
+294,The King's Speech,2010,R,118,"['Biography', 'Drama', 'History']",8.0,88.0,Tom Hooper,667269,138.8,
+295,Sin City,2005,R,124,"['Crime', 'Thriller']",8.0,74.0,Frank Miller,757329,74.1,
+296,Up,2009,PG,96,"['Animation', 'Adventure', 'Comedy']",8.3,88.0,Pete Docter,1003876,293.0,113
+297,The Royal Tenenbaums,2001,R,110,"['Comedy', 'Drama']",7.6,76.0,Wes Anderson,285204,52.36,
+298,Gone with the Wind,1939,Passed,238,"['Drama', 'History', 'Romance']",8.2,97.0,Victor Fleming,307849,198.68,157
+299,"O Brother, Where Art Thou?",2000,PG-13,107,"['Adventure', 'Comedy', 'Crime']",7.7,69.0,Joel Coen,303871,45.51,
+300,Big Fish,2003,PG-13,125,"['Adventure', 'Drama', 'Fantasy']",8.0,58.0,Tim Burton,433574,66.26,
+301,Blood Diamond,2006,R,143,"['Adventure', 'Drama', 'Thriller']",8.0,64.0,Edward Zwick,532602,57.37,
+302,Remember the Titans,2000,PG,113,"['Biography', 'Drama', 'Sport']",7.8,48.0,Boaz Yakin,209900,115.65,
+303,Wonder,2017,PG,113,"['Drama', 'Family']",7.9,66.0,Stephen Chbosky,158486,132.42,
+304,Grave of the Fireflies,1988,Not Rated,89,"['Animation', 'Drama', 'War']",8.5,94.0,Isao Takahata,263002,,49
+305,Birdman or (The Unexpected Virtue of Ignorance),2014,R,119,"['Comedy', 'Drama']",7.7,87.0,Alejandro G. Iñárritu,613555,42.34,
+306,3:10 to Yuma,2007,R,122,"['Action', 'Crime', 'Drama']",7.7,76.0,James Mangold,304012,53.61,
+307,Cast Away,2000,PG-13,143,"['Adventure', 'Drama', 'Romance']",7.8,73.0,Robert Zemeckis,570601,233.63,
+308,The Last Samurai,2003,R,154,"['Action', 'Drama']",7.8,55.0,Edward Zwick,425436,111.11,
+309,Road to Perdition,2002,R,117,"['Crime', 'Drama', 'Thriller']",7.7,72.0,Sam Mendes,261824,104.45,
+310,Halloween,1978,R,91,"['Horror', 'Thriller']",7.7,87.0,John Carpenter,263559,47.0,
+311,Marriage Story,2019,R,137,"['Drama', 'Romance']",7.9,94.0,Noah Baumbach,289540,2.0,
+312,WALL·E,2008,G,98,"['Animation', 'Adventure', 'Family']",8.4,95.0,Andrew Stanton,1072815,223.81,58
+313,Sense and Sensibility,1995,PG,136,"['Drama', 'Romance']",7.7,84.0,Ang Lee,112506,43.18,
+314,Blue Velvet,1986,R,120,"['Crime', 'Drama', 'Mystery']",7.7,76.0,David Lynch,193355,8.55,
+315,The French Connection,1971,R,104,"['Action', 'Crime', 'Drama']",7.7,94.0,William Friedkin,119484,15.63,
+316,The Bourne Identity,2002,PG-13,119,"['Action', 'Mystery', 'Thriller']",7.9,68.0,Doug Liman,534949,121.66,
+317,Magnolia,1999,R,188,['Drama'],8.0,77.0,Paul Thomas Anderson,305959,22.46,
+318,RoboCop,1987,R,102,"['Action', 'Crime', 'Sci-Fi']",7.6,67.0,Paul Verhoeven,250241,53.42,
+319,Children of Men,2006,R,109,"['Action', 'Drama', 'Sci-Fi']",7.9,84.0,Alfonso Cuarón,489095,35.55,
+320,Demon Slayer the Movie: Mugen Train,2020,R,117,"['Animation', 'Action', 'Adventure']",8.3,72.0,Haruo Sotozaki,49715,47.7,
+321,Toy Story 4,2019,G,100,"['Animation', 'Adventure', 'Comedy']",7.7,84.0,Josh Cooley,234298,434.04,
+322,Mary Poppins,1964,G,139,"['Comedy', 'Family', 'Fantasy']",7.8,88.0,Robert Stevenson,167929,102.27,
+323,The Trial of the Chicago 7,2020,R,129,"['Drama', 'History', 'Thriller']",7.8,76.0,Aaron Sorkin,168407,,
+324,Dallas Buyers Club,2013,R,117,"['Biography', 'Drama']",8.0,79.0,Jean-Marc Vallée,473481,27.3,
+325,Sherlock Holmes,2009,PG-13,128,"['Action', 'Adventure', 'Mystery']",7.6,57.0,Guy Ritchie,615655,209.03,
+326,"Lock, Stock and Two Smoking Barrels",1998,R,107,"['Action', 'Comedy', 'Crime']",8.2,66.0,Guy Ritchie,567140,3.9,160
+327,Memories of Murder,2003,Not Rated,132,"['Crime', 'Drama', 'Mystery']",8.1,82.0,Bong Joon Ho,169018,0.01,197
+328,Capernaum,2018,R,126,['Drama'],8.4,75.0,Nadine Labaki,82709,1.66,97
+329,The Lives of Others,2006,R,137,"['Drama', 'Mystery', 'Thriller']",8.4,89.0,Florian Henckel von Donnersmarck,380587,11.29,59
+330,Lost in Translation,2003,R,102,"['Comedy', 'Drama']",7.7,89.0,Sofia Coppola,441827,44.59,
+331,500 Days of Summer,2009,PG-13,95,"['Comedy', 'Drama', 'Romance']",7.7,76.0,Marc Webb,498907,32.39,
+332,Big Hero 6,2014,PG,102,"['Animation', 'Action', 'Adventure']",7.8,74.0,Don Hall,443136,222.53,
+333,Saw,2004,R,103,"['Horror', 'Mystery', 'Thriller']",7.6,46.0,James Wan,407150,56.0,
+334,Minority Report,2002,PG-13,145,"['Action', 'Crime', 'Mystery']",7.7,80.0,Steven Spielberg,536792,132.07,
+335,The Magnificent Seven,1960,Approved,128,"['Action', 'Adventure', 'Western']",7.7,74.0,John Sturges,93233,4.91,
+336,The Fault in Our Stars,2014,PG-13,126,"['Drama', 'Romance']",7.7,69.0,Josh Boone,366081,124.87,
+337,The Fly,1986,R,96,"['Drama', 'Horror', 'Sci-Fi']",7.6,79.0,David Cronenberg,174335,40.46,
+338,Zombieland,2009,R,88,"['Action', 'Comedy', 'Horror']",7.6,73.0,Ruben Fleischer,555684,75.59,
+339,Indiana Jones and the Last Crusade,1989,PG-13,127,"['Action', 'Adventure']",8.3,65.0,Steven Spielberg,732798,197.17,118
+340,Aladdin,1992,G,90,"['Animation', 'Adventure', 'Comedy']",8.1,86.0,Ron Clements,396579,217.35,245
+341,"Monsters, Inc.",2001,G,92,"['Animation', 'Adventure', 'Comedy']",8.1,79.0,Pete Docter,874501,289.92,204
+342,Malcolm X,1992,PG-13,202,"['Biography', 'Drama', 'History']",7.7,73.0,Spike Lee,92597,48.17,
+343,Misery,1990,R,107,"['Drama', 'Thriller']",7.8,75.0,Rob Reiner,201300,61.28,
+344,The Pursuit of Happyness,2006,PG-13,117,"['Biography', 'Drama']",8.0,64.0,Gabriele Muccino,490018,163.57,
+345,Once Upon a Time in the West,1968,PG-13,165,['Western'],8.5,80.0,Sergio Leone,321085,5.32,47
+346,Shaun of the Dead,2004,R,99,"['Comedy', 'Horror']",7.9,76.0,Edgar Wright,542353,13.54,
+347,My Cousin Vinny,1992,R,120,"['Comedy', 'Crime']",7.6,68.0,Jonathan Lynn,119980,52.93,
+348,Incredibles 2,2018,PG,118,"['Animation', 'Action', 'Adventure']",7.6,80.0,Brad Bird,280802,608.58,
+349,Walk the Line,2005,PG-13,136,"['Biography', 'Drama', 'Music']",7.8,72.0,James Mangold,245815,119.52,
+350,Portrait of a Lady on Fire,2019,R,122,"['Drama', 'Romance']",8.1,95.0,Céline Sciamma,83986,3.76,
+351,Groundhog Day,1993,PG,101,"['Comedy', 'Drama', 'Fantasy']",8.1,72.0,Harold Ramis,608534,70.91,222
+352,The Boy in the Striped Pajamas,2008,PG-13,94,"['Drama', 'History', 'War']",7.8,55.0,Mark Herman,210078,9.03,
+353,Rain Man,1988,R,133,['Drama'],8.0,65.0,Barry Levinson,499631,178.8,
+354,Philadelphia,1993,PG-13,125,['Drama'],7.7,66.0,Jonathan Demme,236709,77.32,
+355,Incendies,2010,R,131,"['Drama', 'Mystery', 'War']",8.3,80.0,Denis Villeneuve,169905,6.86,122
+356,Kung Fu Panda,2008,PG,92,"['Animation', 'Action', 'Adventure']",7.6,74.0,Mark Osborne,450916,215.43,
+357,Lawrence of Arabia,1962,Approved,218,"['Adventure', 'Biography', 'Drama']",8.3,100.0,David Lean,285766,44.82,95
+358,The Machinist,2004,R,101,"['Drama', 'Thriller']",7.7,61.0,Brad Anderson,379014,1.08,
+359,The Fighter,2010,R,116,"['Action', 'Biography', 'Drama']",7.8,79.0,David O. Russell,357643,93.62,
+360,12 Monkeys,1995,R,129,"['Mystery', 'Sci-Fi', 'Thriller']",8.0,74.0,Terry Gilliam,605224,57.14,
+361,It's a Wonderful Life,1946,PG,130,"['Drama', 'Family', 'Fantasy']",8.7,89.0,Frank Capra,441116,,21
+362,Young Frankenstein,1974,PG,106,['Comedy'],8.0,80.0,Mel Brooks,154561,86.3,
+363,Mystic River,2003,R,138,"['Crime', 'Drama', 'Mystery']",7.9,84.0,Clint Eastwood,446050,90.14,
+364,Cabaret,1972,PG,124,"['Drama', 'Music', 'Musical']",7.8,80.0,Bob Fosse,53339,42.77,
+365,Gattaca,1997,PG-13,106,"['Drama', 'Sci-Fi', 'Thriller']",7.8,64.0,Andrew Niccol,295586,12.34,
+366,In Bruges,2008,R,107,"['Comedy', 'Crime', 'Drama']",7.9,67.0,Martin McDonagh,411005,7.76,
+367,Rush,2013,R,123,"['Action', 'Biography', 'Drama']",8.1,74.0,Ron Howard,464348,26.95,216
+368,Blazing Saddles,1974,R,93,"['Comedy', 'Western']",7.7,73.0,Mel Brooks,135304,119.5,
+369,The Last of the Mohicans,1992,R,112,"['Action', 'Adventure', 'Drama']",7.7,76.0,Michael Mann,164366,75.51,
+370,Slumdog Millionaire,2008,R,120,"['Drama', 'Romance']",8.0,84.0,Danny Boyle,829464,141.32,
+371,The Last Picture Show,1971,R,118,"['Drama', 'Romance']",8.0,93.0,Peter Bogdanovich,47011,29.13,
+372,Toy Story 3,2010,G,103,"['Animation', 'Adventure', 'Comedy']",8.3,92.0,Lee Unkrich,806020,415.0,84
+373,Y tu mamá también,2001,R,106,['Drama'],7.7,88.0,Alfonso Cuarón,121083,13.62,
+374,How to Train Your Dragon,2010,PG,98,"['Animation', 'Action', 'Adventure']",8.1,75.0,Dean DeBlois,712400,217.58,195
+375,The Little Mermaid,1989,G,83,"['Animation', 'Adventure', 'Comedy']",7.6,88.0,Ron Clements,253459,111.54,
+376,Stagecoach,1939,Passed,96,"['Adventure', 'Drama', 'Western']",7.8,93.0,John Ford,47696,,
+377,The Untouchables,1987,R,119,"['Crime', 'Drama', 'Thriller']",7.9,79.0,Brian De Palma,300994,76.27,
+378,Mulan,1998,G,88,"['Animation', 'Adventure', 'Comedy']",7.6,71.0,Tony Bancroft,276906,120.62,
+379,Planet of the Apes,1968,G,112,"['Adventure', 'Sci-Fi']",8.0,79.0,Franklin J. Schaffner,175935,33.4,
+380,Beauty and the Beast,1991,G,84,"['Animation', 'Family', 'Fantasy']",8.1,95.0,Gary Trousdale,436639,218.97,246
+381,Brief Encounter,1945,Not Rated,86,"['Drama', 'Romance']",8.0,92.0,David Lean,39230,,
+382,As Good as It Gets,1997,PG-13,139,"['Comedy', 'Drama', 'Romance']",7.7,67.0,James L. Brooks,292887,148.48,
+383,Princess Mononoke,1997,PG-13,134,"['Animation', 'Action', 'Adventure']",8.4,76.0,Hayao Miyazaki,377465,2.38,81
+384,Million Dollar Baby,2004,PG-13,132,"['Drama', 'Sport']",8.1,86.0,Clint Eastwood,670552,100.49,173
+385,Gravity,2013,PG-13,91,"['Action', 'Drama', 'Sci-Fi']",7.7,96.0,Alfonso Cuarón,806990,274.09,
+386,The Lego Movie,2014,PG,100,"['Animation', 'Action', 'Adventure']",7.7,83.0,Christopher Miller,342702,257.76,
+387,In the Heat of the Night,1967,Approved,110,"['Drama', 'Mystery', 'Thriller']",8.0,75.0,Norman Jewison,74339,24.38,
+388,What's Eating Gilbert Grape,1993,PG-13,118,['Drama'],7.8,73.0,Lasse Hallström,230379,9.17,
+389,Edward Scissorhands,1990,PG-13,105,"['Drama', 'Fantasy', 'Romance']",7.9,74.0,Tim Burton,473454,56.36,
+390,Citizen Kane,1941,PG,119,"['Drama', 'Mystery']",8.3,100.0,Orson Welles,431355,1.59,93
+391,Scent of a Woman,1992,R,156,['Drama'],8.0,59.0,Martin Brest,286178,63.9,
+392,Before Sunrise,1995,R,101,"['Drama', 'Romance']",8.1,77.0,Richard Linklater,295467,5.54,187
+393,Deliverance,1972,R,109,"['Adventure', 'Drama', 'Thriller']",7.7,80.0,John Boorman,105885,7.06,
+394,Manchester by the Sea,2016,R,137,['Drama'],7.8,96.0,Kenneth Lonergan,270410,47.7,
+395,Hachi: A Dog's Tale,2009,G,93,"['Biography', 'Drama', 'Family']",8.1,,Lasse Hallström,274796,,225
+396,Primal Fear,1996,R,129,"['Crime', 'Drama', 'Mystery']",7.7,47.0,Gregory Hoblit,206467,56.12,
+397,Seven Samurai,1954,Not Rated,207,"['Action', 'Drama']",8.7,98.0,Akira Kurosawa,336464,0.27,20
+398,Boyz n the Hood,1991,R,112,"['Crime', 'Drama']",7.8,76.0,John Singleton,136626,57.5,
+399,Moon,2009,R,97,"['Drama', 'Mystery', 'Sci-Fi']",7.8,67.0,Duncan Jones,351573,5.01,
+400,The Color Purple,1985,PG-13,154,['Drama'],7.7,78.0,Steven Spielberg,84642,98.47,
+401,Coraline,2009,PG,100,"['Animation', 'Drama', 'Family']",7.7,80.0,Henry Selick,216662,75.29,
+402,Let the Right One In,2008,R,114,"['Drama', 'Fantasy', 'Horror']",7.9,82.0,Tomas Alfredson,213617,2.12,
+403,Rear Window,1954,PG,112,"['Mystery', 'Thriller']",8.5,100.0,Alfred Hitchcock,476823,36.76,51
+404,The Invisible Guest,2016,TV-MA,106,"['Crime', 'Drama', 'Mystery']",8.1,,Oriol Paulo,168196,,
+405,The Count of Monte Cristo,2002,PG-13,131,"['Action', 'Adventure', 'Drama']",7.7,61.0,Kevin Reynolds,135640,54.23,
+406,Lethal Weapon,1987,R,109,"['Action', 'Crime', 'Thriller']",7.6,68.0,Richard Donner,252156,65.21,
+407,The Conversation,1974,PG,113,"['Drama', 'Mystery', 'Thriller']",7.8,87.0,Francis Ford Coppola,108782,4.42,
+408,Sound of Metal,2019,R,120,"['Drama', 'Music']",7.7,82.0,Darius Marder,116277,,
+409,The Thin Red Line,1998,R,170,"['Drama', 'History', 'War']",7.6,78.0,Terrence Malick,184228,36.4,
+410,Back to the Future Part II,1989,PG,108,"['Adventure', 'Comedy', 'Sci-Fi']",7.9,57.0,Robert Zemeckis,513829,118.5,
+411,Dark Waters,2019,PG-13,126,"['Biography', 'Drama', 'History']",7.6,73.0,Todd Haynes,81898,,
+412,Hunt for the Wilderpeople,2016,PG-13,101,"['Adventure', 'Comedy', 'Drama']",7.8,81.0,Taika Waititi,125389,5.2,
+413,Lion,2016,PG-13,118,"['Biography', 'Drama']",8.0,69.0,Garth Davis,230359,51.74,
+414,Wreck-It Ralph,2012,PG,101,"['Animation', 'Adventure', 'Comedy']",7.7,72.0,Rich Moore,407487,189.42,
+415,Kill Bill: Vol. 2,2004,R,137,"['Action', 'Crime', 'Thriller']",8.0,83.0,Quentin Tarantino,731105,66.21,
+416,Star Trek Into Darkness,2013,PG-13,132,"['Action', 'Adventure', 'Sci-Fi']",7.7,72.0,J.J. Abrams,477563,228.78,
+417,Empire of the Sun,1987,PG,153,"['Drama', 'History', 'War']",7.7,62.0,Steven Spielberg,123033,22.24,
+418,Life of Pi,2012,PG,127,"['Adventure', 'Drama', 'Fantasy']",7.9,79.0,Ang Lee,612656,124.99,
+419,Stalker,1979,Not Rated,162,"['Drama', 'Sci-Fi']",8.1,,Andrei Tarkovsky,130320,0.23,
+420,Mr. Nobody,2009,R,141,"['Drama', 'Fantasy', 'Romance']",7.8,63.0,Jaco Van Dormael,228628,0.0,
+421,Monty Python and the Holy Grail,1975,PG,91,"['Adventure', 'Comedy', 'Fantasy']",8.2,91.0,Terry Gilliam,527824,1.23,142
+422,Falling Down,1993,R,113,"['Action', 'Crime', 'Drama']",7.6,56.0,Joel Schumacher,184559,40.9,
+423,To Kill a Mockingbird,1962,Approved,129,"['Crime', 'Drama']",8.3,88.0,Robert Mulligan,309682,,109
+424,In the Mood for Love,2000,PG,98,"['Drama', 'Romance']",8.1,85.0,Kar-Wai Wong,143187,2.73,
+425,The Boondock Saints,1999,R,108,"['Action', 'Thriller']",7.7,44.0,Troy Duffy,235949,0.03,
+426,Brazil,1985,R,132,"['Drama', 'Sci-Fi']",7.9,84.0,Terry Gilliam,197650,9.93,
+427,The Theory of Everything,2014,PG-13,123,"['Biography', 'Drama', 'Romance']",7.7,71.0,James Marsh,436393,35.89,
+428,Butch Cassidy and the Sundance Kid,1969,PG,110,"['Biography', 'Crime', 'Drama']",8.0,66.0,George Roy Hill,212116,102.31,
+429,Mississippi Burning,1988,R,128,"['Crime', 'Drama', 'History']",7.8,65.0,Alan Parker,97855,34.6,
+430,Isle of Dogs,2018,PG-13,101,"['Animation', 'Adventure', 'Comedy']",7.8,82.0,Wes Anderson,160926,32.02,
+431,Who Framed Roger Rabbit,1988,PG,104,"['Animation', 'Adventure', 'Comedy']",7.7,83.0,Robert Zemeckis,195260,156.45,
+432,The Blues Brothers,1980,R,133,"['Action', 'Adventure', 'Comedy']",7.9,60.0,John Landis,194386,57.23,
+433,The Boat,1981,R,149,"['Drama', 'War']",8.4,86.0,Wolfgang Petersen,245494,11.49,79
+434,Key Largo,1948,Not Rated,100,"['Action', 'Crime', 'Drama']",7.8,,John Huston,40023,,
+435,A Silent Voice: The Movie,2016,Not Rated,130,"['Animation', 'Drama']",8.1,78.0,Naoko Yamada,72702,,
+436,Metropolis,1927,Not Rated,153,"['Drama', 'Sci-Fi']",8.3,98.0,Fritz Lang,170341,1.24,120
+437,Breakfast at Tiffany's,1961,Approved,115,"['Comedy', 'Drama', 'Romance']",7.6,76.0,Blake Edwards,176142,,
+438,Naked,1993,Not Rated,131,"['Comedy', 'Drama']",7.8,85.0,Mike Leigh,38331,1.77,
+439,District 9,2009,R,112,"['Action', 'Sci-Fi', 'Thriller']",7.9,81.0,Neill Blomkamp,666362,115.65,
+440,The Great Escape,1963,Approved,172,"['Adventure', 'Drama', 'History']",8.2,86.0,John Sturges,239106,12.1,148
+441,The Bourne Ultimatum,2007,PG-13,115,"['Action', 'Mystery', 'Thriller']",8.0,85.0,Paul Greengrass,624759,227.47,
+442,Singin' in the Rain,1952,G,103,"['Comedy', 'Musical', 'Romance']",8.3,99.0,Stanley Donen,234808,8.82,87
+443,Midnight Cowboy,1969,R,113,['Drama'],7.8,79.0,John Schlesinger,108718,44.79,
+444,First Blood,1982,R,93,"['Action', 'Adventure', 'Thriller']",7.7,61.0,Ted Kotcheff,244087,47.21,
+445,Ben-Hur,1959,G,212,"['Adventure', 'Drama', 'History']",8.1,90.0,William Wyler,233334,74.7,182
+446,The Lost Weekend,1945,Passed,101,"['Drama', 'Film-Noir']",7.9,,Billy Wilder,36204,9.46,
+447,Vertigo,1958,PG,128,"['Mystery', 'Romance', 'Thriller']",8.3,100.0,Alfred Hitchcock,391500,3.2,100
+448,I Saw the Devil,2010,Not Rated,144,"['Action', 'Crime', 'Drama']",7.8,67.0,Jee-woon Kim,124558,0.13,
+449,The Lion in Winter,1968,PG,134,"['Biography', 'Drama', 'History']",7.9,,Anthony Harvey,31024,22.28,
+450,The Skin I Live In,2011,R,120,"['Drama', 'Horror', 'Thriller']",7.6,70.0,Pedro Almodóvar,148946,3.19,
+451,Lord of War,2005,R,122,"['Crime', 'Drama']",7.6,62.0,Andrew Niccol,308459,24.15,
+452,Toy Story 2,1999,G,92,"['Animation', 'Adventure', 'Comedy']",7.9,88.0,John Lasseter,561299,245.85,
+453,Rosemary's Baby,1968,Approved,137,"['Drama', 'Horror']",8.0,96.0,Roman Polanski,208872,,
+454,Bridge of Spies,2015,PG-13,142,"['Drama', 'History', 'Thriller']",7.6,81.0,Steven Spielberg,304691,72.31,
+455,Dangal,2016,Not Rated,161,"['Action', 'Biography', 'Drama']",8.4,,Nitesh Tiwari,179160,12.39,127
+456,The Fall,2006,R,117,"['Adventure', 'Drama', 'Fantasy']",7.8,64.0,Tarsem Singh,111028,2.28,
+457,Doctor Zhivago,1965,PG-13,197,"['Drama', 'Romance', 'War']",8.0,69.0,David Lean,75087,111.72,
+458,Batman: Mask of the Phantasm,1993,PG,76,"['Animation', 'Action', 'Adventure']",7.8,,Kevin Altieri,48420,5.62,
+459,The Wrestler,2008,R,109,"['Drama', 'Sport']",7.9,80.0,Darren Aronofsky,300740,26.24,
+460,The Road Warrior,1981,R,96,"['Action', 'Adventure', 'Sci-Fi']",7.6,77.0,George Miller,176271,12.47,
+461,The Bourne Supremacy,2004,PG-13,108,"['Action', 'Mystery', 'Thriller']",7.7,73.0,Paul Greengrass,454604,176.24,
+462,Rushmore,1998,R,93,"['Comedy', 'Drama', 'Romance']",7.6,86.0,Wes Anderson,181524,17.11,
+463,Traffic,2000,R,147,"['Crime', 'Drama', 'Thriller']",7.6,86.0,Steven Soderbergh,204706,124.12,
+464,The Girl with the Dragon Tattoo,2009,R,152,"['Crime', 'Drama', 'Mystery']",7.8,76.0,Niels Arden Oplev,214900,10.1,
+465,JFK,1991,R,189,"['Drama', 'History', 'Thriller']",8.0,72.0,Oliver Stone,152227,70.41,
+466,Being John Malkovich,1999,R,113,"['Comedy', 'Drama', 'Fantasy']",7.8,90.0,Spike Jonze,328209,22.86,
+467,Carlito's Way,1993,R,144,"['Crime', 'Drama', 'Thriller']",7.9,65.0,Brian De Palma,212973,36.95,
+468,Boyhood,2014,R,165,['Drama'],7.9,100.0,Richard Linklater,349060,25.38,
+469,Gone Baby Gone,2007,R,114,"['Crime', 'Drama', 'Mystery']",7.6,72.0,Ben Affleck,267503,20.3,
+470,Close Encounters of the Third Kind,1977,PG,138,"['Drama', 'Sci-Fi']",7.6,90.0,Steven Spielberg,196715,132.09,
+471,Dog Day Afternoon,1975,R,125,"['Biography', 'Crime', 'Drama']",8.0,86.0,Sidney Lumet,250631,50.0,
+472,Match Point,2005,R,124,"['Drama', 'Romance', 'Thriller']",7.6,72.0,Woody Allen,214972,23.09,
+473,My Neighbor Totoro,1988,G,86,"['Animation', 'Comedy', 'Family']",8.2,86.0,Hayao Miyazaki,323100,1.11,171
+474,When Harry Met Sally...,1989,R,95,"['Comedy', 'Drama', 'Romance']",7.7,76.0,Rob Reiner,211389,92.82,
+475,Raging Bull,1980,R,129,"['Biography', 'Drama', 'Sport']",8.2,89.0,Martin Scorsese,343220,23.38,154
+476,The Naked Gun: From the Files of Police Squad!,1988,PG-13,85,"['Comedy', 'Crime']",7.6,76.0,David Zucker,164452,78.76,
+477,Creed,2015,PG-13,133,"['Action', 'Drama', 'Sport']",7.6,82.0,Ryan Coogler,265050,109.77,
+478,North by Northwest,1959,Approved,136,"['Adventure', 'Mystery', 'Thriller']",8.3,98.0,Alfred Hitchcock,319309,13.28,98
+479,End of Watch,2012,R,109,"['Action', 'Adventure', 'Crime']",7.6,68.0,David Ayer,241985,41.0,
+480,Glory,1989,R,122,"['Biography', 'Drama', 'History']",7.8,78.0,Edward Zwick,132375,26.83,
+481,This Is Spinal Tap,1984,R,82,"['Comedy', 'Music']",7.9,92.0,Rob Reiner,137202,4.74,
+482,Laura,1944,Passed,88,"['Drama', 'Film-Noir', 'Mystery']",7.9,,Otto Preminger,46415,4.36,
+483,127 Hours,2010,R,94,"['Biography', 'Drama']",7.6,82.0,Danny Boyle,368571,18.34,
+484,The Birds,1963,PG-13,119,"['Drama', 'Horror', 'Mystery']",7.7,90.0,Alfred Hitchcock,183800,11.4,
+485,The Outlaw Josey Wales,1976,PG,135,['Western'],7.8,69.0,Clint Eastwood,71795,31.8,
+486,Adaptation.,2002,R,115,"['Comedy', 'Drama']",7.7,83.0,Spike Jonze,188896,22.25,
+487,The Holy Mountain,1973,R,114,"['Adventure', 'Drama', 'Fantasy']",7.8,76.0,Alejandro Jodorowsky,41577,0.06,
+488,The Others,2001,PG-13,104,"['Horror', 'Mystery', 'Thriller']",7.6,74.0,Alejandro Amenábar,356939,96.52,
+489,Eastern Promises,2007,R,100,"['Crime', 'Drama', 'Thriller']",7.6,82.0,David Cronenberg,238578,17.11,
+490,Cinema Paradiso,1988,R,155,"['Drama', 'Romance']",8.5,80.0,Giuseppe Tornatore,252217,11.99,55
+491,The Secret in Their Eyes,2009,R,129,"['Drama', 'Mystery', 'Romance']",8.2,80.0,Juan José Campanella,204992,6.39,163
+492,My Fair Lady,1964,G,170,"['Drama', 'Family', 'Musical']",7.8,95.0,George Cukor,93515,72.0,
+493,The Seventh Seal,1957,Not Rated,96,"['Drama', 'Fantasy', 'History']",8.1,88.0,Ingmar Bergman,180247,,198
+494,Dark City,1998,R,100,"['Fantasy', 'Mystery', 'Sci-Fi']",7.6,66.0,Alex Proyas,196755,14.38,
+495,Papillon,1973,R,151,"['Biography', 'Crime', 'Drama']",8.0,58.0,Franklin J. Schaffner,128341,53.27,
+496,The Ten Commandments,1956,G,220,"['Adventure', 'Drama', 'Family']",7.9,,Cecil B. DeMille,68544,93.74,
+497,Star Trek II: The Wrath of Khan,1982,PG,113,"['Action', 'Adventure', 'Sci-Fi']",7.7,67.0,Nicholas Meyer,118782,78.91,
+498,The Jungle Book,1967,G,78,"['Animation', 'Adventure', 'Comedy']",7.6,65.0,Wolfgang Reitherman,177149,141.84,
+499,This Is England,2006,Not Rated,101,"['Crime', 'Drama']",7.7,86.0,Shane Meadows,120644,0.33,
+500,A Fistful of Dollars,1964,R,99,"['Action', 'Drama', 'Western']",7.9,65.0,Sergio Leone,211619,14.5,
+501,The Grapes of Wrath,1940,Passed,129,['Drama'],8.1,96.0,John Ford,90673,0.06,232
+502,Barry Lyndon,1975,PG,185,"['Adventure', 'Drama', 'History']",8.1,89.0,Stanley Kubrick,162579,,199
+503,The Raid: Redemption,2011,R,101,"['Action', 'Crime', 'Thriller']",7.6,73.0,Gareth Evans,200522,4.11,
+504,Roma,2018,R,135,['Drama'],7.7,96.0,Alfonso Cuarón,153177,,
+505,Do the Right Thing,1989,R,120,"['Comedy', 'Drama']",7.9,93.0,Spike Lee,99301,27.55,
+506,Captain Phillips,2013,PG-13,134,"['Action', 'Biography', 'Crime']",7.8,82.0,Paul Greengrass,447266,107.1,
+507,A Bronx Tale,1993,R,121,"['Crime', 'Drama']",7.8,80.0,Robert De Niro,137301,17.27,
+508,Akira,1988,R,124,"['Animation', 'Action', 'Drama']",8.0,67.0,Katsuhiro Ôtomo,179280,0.55,
+509,Perfect Blue,1997,R,81,"['Animation', 'Crime', 'Drama']",8.0,,Satoshi Kon,70175,0.78,
+510,Dogville,2003,R,178,"['Crime', 'Drama']",8.0,60.0,Lars von Trier,145961,1.53,
+511,The Dirty Dozen,1967,Approved,150,"['Action', 'Adventure', 'War']",7.7,73.0,Robert Aldrich,71451,45.3,
+512,Spartacus,1960,PG-13,197,"['Adventure', 'Biography', 'Drama']",7.9,87.0,Stanley Kubrick,132247,30.0,
+513,The Sting,1973,PG,129,"['Comedy', 'Crime', 'Drama']",8.3,83.0,George Roy Hill,255497,159.6,111
+514,8½,1963,Not Rated,138,['Drama'],8.0,91.0,Federico Fellini,115769,0.05,
+515,La Haine,1995,Not Rated,98,"['Crime', 'Drama']",8.1,,Mathieu Kassovitz,166088,0.31,244
+516,Searching,2018,PG-13,102,"['Drama', 'Mystery', 'Thriller']",7.6,71.0,Aneesh Chaganty,157635,26.02,
+517,The Great Beauty,2013,Not Rated,141,['Drama'],7.7,86.0,Paolo Sorrentino,88333,2.85,
+518,Kung Fu Hustle,2004,R,99,"['Action', 'Comedy', 'Fantasy']",7.7,78.0,Stephen Chow,135770,17.11,
+519,Serpico,1973,R,130,"['Biography', 'Crime', 'Drama']",7.7,87.0,Sidney Lumet,119660,29.8,
+520,Sunset Blvd.,1950,Passed,110,"['Drama', 'Film-Noir']",8.4,,Billy Wilder,215886,,60
+521,Die Hard with a Vengeance,1995,R,128,"['Action', 'Adventure', 'Thriller']",7.6,58.0,John McTiernan,380433,100.01,
+522,Sling Blade,1996,R,135,['Drama'],8.0,84.0,Billy Bob Thornton,92552,24.48,
+523,Changeling,2008,R,141,"['Biography', 'Crime', 'Drama']",7.8,63.0,Clint Eastwood,251120,35.74,
+524,A Separation,2011,PG-13,123,['Drama'],8.3,95.0,Asghar Farhadi,239430,7.1,119
+525,Dirty Harry,1971,R,102,"['Action', 'Crime', 'Thriller']",7.7,87.0,Don Siegel,152475,35.9,
+526,Snow White and the Seven Dwarfs,1937,Approved,83,"['Animation', 'Adventure', 'Family']",7.6,95.0,William Cottrell,193881,184.93,
+527,Fried Green Tomatoes,1991,PG-13,130,['Drama'],7.7,64.0,Jon Avnet,72877,82.42,
+528,Ordinary People,1980,R,124,['Drama'],7.8,86.0,Robert Redford,50899,54.8,
+529,Wild Tales,2014,R,122,"['Comedy', 'Drama', 'Thriller']",8.1,77.0,Damián Szifron,191799,3.11,203
+530,The Searchers,1956,Passed,119,"['Adventure', 'Drama', 'Western']",7.9,94.0,John Ford,87239,,
+531,The Illusionist,2006,PG-13,110,"['Drama', 'Fantasy', 'Mystery']",7.6,68.0,Neil Burger,367121,39.87,
+532,Kramer vs. Kramer,1979,PG,105,['Drama'],7.8,77.0,Robert Benton,142148,106.26,
+533,The Elephant Man,1980,PG,124,"['Biography', 'Drama']",8.2,78.0,David Lynch,235175,,155
+534,Billy Elliot,2000,R,110,"['Drama', 'Music']",7.7,74.0,Stephen Daldry,132882,22.0,
+535,M,1931,Passed,99,"['Crime', 'Mystery', 'Thriller']",8.3,,Fritz Lang,154081,0.03,96
+536,Life of Brian,1979,R,94,['Comedy'],8.1,77.0,Terry Jones,389807,20.05,240
+537,In the Name of the Father,1993,R,133,"['Biography', 'Crime', 'Drama']",8.1,84.0,Jim Sheridan,169980,25.01,188
+538,Goldfinger,1964,PG,110,"['Action', 'Adventure', 'Thriller']",7.7,87.0,Guy Hamilton,185654,51.08,
+539,I Am Sam,2001,PG-13,132,['Drama'],7.6,28.0,Jessie Nelson,148586,40.31,
+540,Solaris,1972,PG,167,"['Drama', 'Mystery', 'Sci-Fi']",8.0,90.0,Andrei Tarkovsky,88895,,
+541,Miracle in Cell No. 7,2019,TV-14,132,['Drama'],8.2,,Mehmet Ada Öztekin,46190,,
+542,The Great Dictator,1940,G,125,"['Comedy', 'Drama', 'War']",8.4,,Charles Chaplin,218385,0.29,63
+543,For a Few Dollars More,1965,R,132,['Western'],8.3,74.0,Sergio Leone,249477,15.0,126
+544,Ray,2004,PG-13,152,"['Biography', 'Drama', 'Music']",7.7,73.0,Taylor Hackford,145329,75.33,
+545,Awakenings,1990,PG-13,121,"['Biography', 'Drama']",7.8,74.0,Penny Marshall,136596,52.1,
+546,Before Sunset,2004,R,80,"['Drama', 'Romance']",8.1,90.0,Richard Linklater,254698,5.82,229
+547,A Streetcar Named Desire,1951,PG,122,['Drama'],8.0,97.0,Elia Kazan,105971,8.0,
+548,Ran,1985,R,162,"['Action', 'Drama', 'War']",8.2,96.0,Akira Kurosawa,122299,4.14,139
+549,Gaslight,1944,Passed,114,"['Crime', 'Drama', 'Mystery']",7.8,,George Cukor,27768,,
+550,"Crouching Tiger, Hidden Dragon",2000,PG-13,120,"['Action', 'Adventure', 'Drama']",7.9,94.0,Ang Lee,264302,128.08,
+551,Miller's Crossing,1990,R,115,"['Crime', 'Drama', 'Thriller']",7.7,66.0,Joel Coen,133128,5.08,
+552,Fiddler on the Roof,1971,G,181,"['Drama', 'Family', 'Musical']",8.0,67.0,Norman Jewison,42688,80.5,
+553,Before Midnight,2013,R,109,"['Drama', 'Romance']",7.9,94.0,Richard Linklater,152718,8.11,
+554,The Nightmare Before Christmas,1993,PG,76,"['Animation', 'Family', 'Fantasy']",8.0,82.0,Henry Selick,324585,75.08,
+555,Sing Street,2016,PG-13,106,"['Comedy', 'Drama', 'Music']",7.9,79.0,John Carney,91458,3.24,
+556,Battle Royale,2000,Not Rated,114,"['Action', 'Adventure', 'Drama']",7.6,81.0,Kinji Fukasaku,179621,,
+557,All About Eve,1950,Passed,138,['Drama'],8.3,98.0,Joseph L. Mankiewicz,128576,0.01,132
+558,Gandhi,1982,PG,191,"['Biography', 'Drama']",8.1,79.0,Richard Attenborough,226156,52.77,247
+559,Enter the Dragon,1973,R,102,"['Action', 'Crime', 'Drama']",7.6,83.0,Robert Clouse,102642,25.0,
+560,"Paris, Texas",1984,R,145,['Drama'],8.1,78.0,Wim Wenders,102734,2.18,
+561,Seven Pounds,2008,PG-13,123,['Drama'],7.6,36.0,Gabriele Muccino,298325,69.95,
+562,Hara-Kiri,1962,Not Rated,133,"['Action', 'Drama', 'Mystery']",8.6,85.0,Masaki Kobayashi,52731,,48
+563,The Third Man,1949,Approved,93,"['Film-Noir', 'Mystery', 'Thriller']",8.1,97.0,Carol Reed,168437,0.45,180
+564,Fanny and Alexander,1982,R,188,['Drama'],8.1,100.0,Ingmar Bergman,62806,4.97,
+565,The Bridge on the River Kwai,1957,PG,161,"['Adventure', 'Drama', 'War']",8.2,87.0,David Lean,215586,44.91,165
+566,The Maltese Falcon,1941,Passed,100,"['Crime', 'Film-Noir', 'Mystery']",8.0,97.0,John Huston,155887,2.11,
+567,Cool Hand Luke,1967,GP,127,"['Crime', 'Drama']",8.1,92.0,Stuart Rosenberg,173362,16.22,234
+568,Barton Fink,1991,R,116,"['Comedy', 'Drama', 'Thriller']",7.6,69.0,Joel Coen,119192,6.15,
+569,Annie Hall,1977,PG,93,"['Comedy', 'Romance']",8.0,92.0,Woody Allen,261461,39.2,
+570,Evil Dead II,1987,R,84,"['Comedy', 'Horror']",7.7,72.0,Sam Raimi,158565,5.92,
+571,Chungking Express,1994,PG-13,102,"['Comedy', 'Crime', 'Drama']",8.0,78.0,Kar-Wai Wong,76049,0.6,
+572,Hedwig and the Angry Inch,2001,R,95,"['Comedy', 'Drama', 'Music']",7.7,85.0,John Cameron Mitchell,35109,3.03,
+573,Patton,1970,GP,172,"['Biography', 'Drama', 'War']",8.0,91.0,Franklin J. Schaffner,100397,61.7,
+574,The Man from Earth,2007,Not Rated,87,"['Drama', 'Fantasy', 'Mystery']",7.9,,Richard Schenkman,183818,,
+575,The Iron Giant,1999,PG,86,"['Animation', 'Action', 'Adventure']",8.1,85.0,Brad Bird,185702,23.16,
+576,Freaks,1932,Not Rated,64,"['Drama', 'Horror']",7.9,80.0,Tod Browning,45347,,
+577,The Bridges of Madison County,1995,PG-13,135,"['Drama', 'Romance']",7.6,69.0,Clint Eastwood,79279,71.52,
+578,"Blood In, Blood Out",1993,R,180,"['Crime', 'Drama']",7.9,47.0,Taylor Hackford,30752,4.5,
+579,The Wild Bunch,1969,R,135,"['Action', 'Adventure', 'Western']",7.9,97.0,Sam Peckinpah,83016,12.06,
+580,The King of Comedy,1982,PG,109,"['Comedy', 'Crime', 'Drama']",7.8,73.0,Martin Scorsese,99558,2.5,
+581,The Insider,1999,R,157,"['Biography', 'Drama', 'Thriller']",7.8,84.0,Michael Mann,168364,28.97,
+582,My Left Foot,1989,R,103,"['Biography', 'Drama']",7.9,97.0,Jim Sheridan,72822,14.74,
+583,Ed Wood,1994,R,127,"['Biography', 'Comedy', 'Drama']",7.9,70.0,Tim Burton,173071,5.89,
+584,Ip Man,2008,R,106,"['Action', 'Biography', 'Drama']",8.0,59.0,Wilson Yip,220286,,
+585,Amarcord,1973,R,123,"['Comedy', 'Drama']",7.9,,Federico Fellini,42768,0.58,
+586,Rebel Without a Cause,1955,PG-13,111,['Drama'],7.7,89.0,Nicholas Ray,88724,,
+587,Glengarry Glen Ross,1992,R,100,"['Crime', 'Drama', 'Mystery']",7.7,82.0,James Foley,102944,10.73,
+588,Guess Who's Coming to Dinner,1967,Approved,108,"['Comedy', 'Drama']",7.8,63.0,Stanley Kramer,44393,56.7,
+589,Paper Moon,1973,PG,102,"['Comedy', 'Crime', 'Drama']",8.1,77.0,Peter Bogdanovich,46333,30.93,
+590,Rio Bravo,1959,Passed,141,['Western'],8.0,93.0,Howard Hawks,60953,12.54,
+591,Hamlet,1996,PG-13,242,['Drama'],7.8,,Kenneth Branagh,37695,4.41,
+592,All the President's Men,1976,PG,138,"['Drama', 'History', 'Thriller']",7.9,84.0,Alan J. Pakula,112313,70.6,
+593,The Artist,2011,PG-13,100,"['Comedy', 'Drama', 'Romance']",7.9,89.0,Michel Hazanavicius,238635,44.67,
+594,Hotel Rwanda,2004,PG-13,121,"['Biography', 'Drama', 'History']",8.1,79.0,Terry George,349031,23.53,208
+595,How to Train Your Dragon 2,2014,PG,102,"['Animation', 'Action', 'Adventure']",7.8,77.0,Dean DeBlois,324558,177.0,
+596,Charade,1963,Passed,113,"['Comedy', 'Mystery', 'Romance']",7.9,83.0,Stanley Donen,75094,13.47,
+597,The Last Emperor,1987,PG-13,163,"['Biography', 'Drama', 'History']",7.7,76.0,Bernardo Bertolucci,100724,43.98,
+598,The Man Who Shot Liberty Valance,1962,Approved,123,"['Drama', 'Western']",8.1,94.0,John Ford,74314,,
+599,King Kong,1933,Passed,100,"['Adventure', 'Horror', 'Sci-Fi']",7.9,90.0,Merian C. Cooper,83971,10.0,
+600,Bonnie and Clyde,1967,R,111,"['Action', 'Biography', 'Crime']",7.8,86.0,Arthur Penn,110272,,
+601,Rebecca,1940,Approved,130,"['Drama', 'Film-Noir', 'Mystery']",8.1,86.0,Alfred Hitchcock,134007,4.36,230
+602,The Best Offer,2013,R,131,"['Crime', 'Drama', 'Mystery']",7.8,49.0,Giuseppe Tornatore,116136,0.09,
+603,After Hours,1985,R,97,"['Comedy', 'Crime', 'Drama']",7.6,90.0,Martin Scorsese,67018,10.6,
+604,Paths of Glory,1957,Approved,88,"['Drama', 'War']",8.4,90.0,Stanley Kubrick,191671,,62
+605,On the Waterfront,1954,Approved,108,"['Crime', 'Drama', 'Thriller']",8.1,91.0,Elia Kazan,151507,9.6,177
+606,Double Indemnity,1944,Passed,107,"['Crime', 'Drama', 'Film-Noir']",8.3,95.0,Billy Wilder,153201,5.72,105
+607,Clerks,1994,R,92,['Comedy'],7.7,70.0,Kevin Smith,218926,3.15,
+608,Ponyo,2008,G,101,"['Animation', 'Adventure', 'Comedy']",7.6,86.0,Hayao Miyazaki,137883,15.09,
+609,The Road,1954,Not Rated,108,['Drama'],8.0,,Federico Fellini,62017,,
+610,Like Stars on Earth,2007,PG,165,"['Drama', 'Family']",8.4,,Aamir Khan,186361,1.22,124
+611,Lucky Number Slevin,2006,R,110,"['Crime', 'Drama', 'Thriller']",7.7,53.0,Paul McGuigan,309204,22.49,
+612,Amores perros,2000,R,154,"['Drama', 'Thriller']",8.1,83.0,Alejandro G. Iñárritu,235925,5.38,237
+613,Cinderella Man,2005,PG-13,144,"['Biography', 'Drama', 'History']",8.0,69.0,Ron Howard,184295,61.65,
+614,Klaus,2019,PG,96,"['Animation', 'Adventure', 'Comedy']",8.2,65.0,Sergio Pablos,139247,,201
+615,The Raid 2,2014,R,150,"['Action', 'Crime', 'Thriller']",7.9,71.0,Gareth Evans,120883,2.63,
+616,Witness for the Prosecution,1957,Approved,116,"['Crime', 'Drama', 'Mystery']",8.4,,Billy Wilder,120739,8.18,65
+617,Black Book,2006,R,145,"['Drama', 'Thriller', 'War']",7.7,71.0,Paul Verhoeven,75978,4.4,
+618,The Night of the Hunter,1955,Not Rated,92,"['Crime', 'Drama', 'Film-Noir']",8.0,99.0,Charles Laughton,87508,0.65,
+619,Sabrina,1954,Passed,113,"['Comedy', 'Drama', 'Romance']",7.6,72.0,Billy Wilder,63567,,
+620,The Hustler,1961,Not Rated,134,"['Drama', 'Sport']",8.0,90.0,Robert Rossen,80573,8.28,
+621,21 Grams,2003,R,124,"['Crime', 'Drama', 'Thriller']",7.7,70.0,Alejandro G. Iñárritu,233544,16.29,
+622,Nausicaä of the Valley of the Wind,1984,PG,117,"['Animation', 'Adventure', 'Sci-Fi']",8.0,86.0,Hayao Miyazaki,165011,0.5,
+623,Dial M for Murder,1954,PG,105,"['Crime', 'Thriller']",8.2,75.0,Alfred Hitchcock,170984,0.01,162
+624,Persona,1966,Not Rated,83,"['Drama', 'Thriller']",8.1,86.0,Ingmar Bergman,114343,,242
+625,Kiki's Delivery Service,1989,G,103,"['Animation', 'Family', 'Fantasy']",7.8,83.0,Hayao Miyazaki,138213,,
+626,Togo,2019,PG,113,"['Adventure', 'Biography', 'Drama']",8.0,69.0,Ericson Core,46105,,
+627,Dawn of the Dead,1978,Unrated,127,"['Horror', 'Thriller']",7.9,71.0,George A. Romero,118106,5.1,
+628,The Quiet Man,1952,Passed,129,"['Comedy', 'Drama', 'Romance']",7.7,85.0,John Ford,37686,10.55,
+629,Once,2007,R,86,"['Drama', 'Music', 'Romance']",7.8,88.0,John Carney,115204,9.44,
+630,The Name of the Rose,1986,R,130,"['Drama', 'History', 'Mystery']",7.7,54.0,Jean-Jacques Annaud,106931,7.15,
+631,Ghost in the Shell,1995,TV-MA,83,"['Animation', 'Action', 'Crime']",7.9,76.0,Mamoru Oshii,139075,0.52,
+632,Rashomon,1950,Not Rated,88,"['Crime', 'Drama', 'Mystery']",8.2,98.0,Akira Kurosawa,164122,0.1,149
+633,Detachment,2011,Not Rated,98,['Drama'],7.7,52.0,Tony Kaye,83033,0.07,
+634,The Station Agent,2003,R,89,"['Comedy', 'Drama']",7.6,81.0,Tom McCarthy,69834,5.74,
+635,Talk to Her,2002,R,112,"['Drama', 'Mystery', 'Romance']",7.9,86.0,Pedro Almodóvar,110651,9.28,
+636,All That Jazz,1979,R,123,"['Drama', 'Music', 'Musical']",7.8,72.0,Bob Fosse,30847,37.82,
+637,Wolfwalkers,2020,PG,103,"['Animation', 'Adventure', 'Family']",8.0,87.0,Tomm Moore,29306,,
+638,Night of the Living Dead,1968,Not Rated,96,"['Horror', 'Thriller']",7.8,89.0,George A. Romero,124974,0.09,
+639,Tumbbad,2018,Not Rated,104,"['Drama', 'Fantasy', 'Horror']",8.3,,Rahi Anil Barve,40250,,
+640,What Ever Happened to Baby Jane?,1962,Passed,134,"['Drama', 'Horror', 'Thriller']",8.0,75.0,Robert Aldrich,54432,4.05,
+641,Roman Holiday,1953,Passed,118,"['Comedy', 'Romance']",8.0,78.0,William Wyler,135774,,
+642,Sardar Udham,2021,TV-MA,164,"['Biography', 'Crime', 'Drama']",8.8,,Shoojit Sircar,36832,,
+643,Harold and Maude,1971,PG,91,"['Comedy', 'Drama', 'Romance']",7.9,62.0,Hal Ashby,76141,,
+644,The Last King of Scotland,2006,R,123,"['Biography', 'Drama', 'History']",7.7,74.0,Kevin Macdonald,183562,17.61,
+645,Shoplifters,2018,R,121,"['Crime', 'Drama']",7.9,93.0,Hirokazu Koreeda,72755,3.31,
+646,Mysterious Skin,2004,Unrated,105,['Drama'],7.6,73.0,Gregg Araki,68524,0.7,
+647,The Right Stuff,1983,PG,193,"['Adventure', 'Biography', 'Drama']",7.8,91.0,Philip Kaufman,60382,21.5,
+648,The Celebration,1998,R,105,['Drama'],8.1,82.0,Thomas Vinterberg,85185,1.65,
+649,Being There,1979,PG,130,"['Comedy', 'Drama']",8.0,83.0,Hal Ashby,71194,30.18,
+650,PK,2014,Not Rated,153,"['Comedy', 'Drama', 'Sci-Fi']",8.2,,Rajkumar Hirani,176749,10.62,
+651,Castle in the Sky,1986,PG,125,"['Animation', 'Adventure', 'Family']",8.0,78.0,Hayao Miyazaki,161563,,
+652,La Dolce Vita,1960,Not Rated,174,"['Comedy', 'Drama']",8.0,95.0,Federico Fellini,71524,19.52,
+653,Paprika,2006,R,90,"['Animation', 'Drama', 'Fantasy']",7.7,81.0,Satoshi Kon,79646,0.88,
+654,Letters from Iwo Jima,2006,R,141,"['Action', 'Adventure', 'Drama']",7.9,89.0,Clint Eastwood,160420,13.76,
+655,Mother,2009,R,129,"['Crime', 'Drama', 'Mystery']",7.8,79.0,Bong Joon Ho,61155,0.55,
+656,Hero,2002,PG-13,120,"['Action', 'Adventure', 'Drama']",7.9,85.0,Yimou Zhang,179442,53.71,
+657,Good Bye Lenin!,2003,R,121,"['Comedy', 'Drama', 'Romance']",7.7,68.0,Wolfgang Becker,144034,4.06,
+658,The Remains of the Day,1993,PG,134,"['Drama', 'Romance']",7.8,86.0,James Ivory,72201,22.95,
+659,The Wind Rises,2013,PG-13,126,"['Animation', 'Biography', 'Drama']",7.8,83.0,Hayao Miyazaki,82056,5.21,
+660,Short Term 12,2013,R,96,['Drama'],7.9,82.0,Destin Daniel Cretton,86499,1.01,
+661,Anatomy of a Murder,1959,Not Rated,161,"['Drama', 'Mystery']",8.0,95.0,Otto Preminger,64950,11.9,
+662,Philomena,2013,PG-13,98,"['Biography', 'Comedy', 'Drama']",7.6,77.0,Stephen Frears,98729,37.71,
+663,High Noon,1952,PG,85,"['Drama', 'Thriller', 'Western']",8.0,89.0,Fred Zinnemann,102526,9.45,
+664,Finding Neverland,2004,PG,106,"['Biography', 'Drama', 'Family']",7.7,67.0,Marc Forster,204060,51.68,
+665,A Man Called Ove,2015,PG-13,116,"['Comedy', 'Drama', 'Romance']",7.7,70.0,Hannes Holm,52931,3.36,
+666,Mommy,2014,R,139,['Drama'],8.0,74.0,Xavier Dolan,55436,3.49,
+667,Beasts of No Nation,2015,TV-MA,137,"['Drama', 'War']",7.7,79.0,Cary Joji Fukunaga,79602,0.08,
+668,October Sky,1999,PG,108,"['Biography', 'Drama', 'Family']",7.8,71.0,Joe Johnston,88746,32.48,
+669,Modern Times,1936,G,87,"['Comedy', 'Drama', 'Romance']",8.5,96.0,Charles Chaplin,235140,0.16,46
+670,Perfect Strangers,2016,,96,"['Comedy', 'Drama']",7.7,,Paolo Genovese,63328,,
+671,The Philadelphia Story,1940,Not Rated,112,"['Comedy', 'Romance']",7.9,96.0,George Cukor,67836,,
+672,50/50,2011,R,100,"['Comedy', 'Drama', 'Romance']",7.6,72.0,Jonathan Levine,326004,35.01,
+673,The Longest Day,1962,G,178,"['Action', 'Drama', 'History']",7.7,75.0,Ken Annakin,54828,39.1,
+674,K.G.F: Chapter 1,2018,Not Rated,156,"['Action', 'Crime', 'Drama']",8.5,,Prashanth Neel,55914,,
+675,Neon Genesis Evangelion: The End of Evangelion,1997,TV-MA,87,"['Animation', 'Action', 'Drama']",8.1,,Hideaki Anno,51047,,
+676,Run Lola Run,1998,R,80,"['Crime', 'Drama', 'Thriller']",7.7,77.0,Tom Tykwer,196135,7.27,
+677,Pink Floyd: The Wall,1982,R,95,"['Drama', 'Fantasy', 'Music']",8.0,47.0,Alan Parker,79742,22.24,
+678,Days of Heaven,1978,PG,94,"['Drama', 'Romance']",7.8,93.0,Terrence Malick,56929,,
+679,Where Eagles Dare,1968,M,158,"['Action', 'Adventure', 'War']",7.6,63.0,Brian G. Hutton,57034,,
+680,Open Your Eyes,1997,R,119,"['Drama', 'Mystery', 'Sci-Fi']",7.7,,Alejandro Amenábar,68369,0.37,
+681,The Killing,1956,Approved,84,"['Crime', 'Drama', 'Film-Noir']",8.0,91.0,Stanley Kubrick,87811,,
+682,It Happened One Night,1934,Passed,105,"['Comedy', 'Romance']",8.1,87.0,Frank Capra,101347,4.36,243
+683,Flipped,2010,PG,90,"['Comedy', 'Drama', 'Romance']",7.7,45.0,Rob Reiner,88237,1.75,
+684,Who's Afraid of Virginia Woolf?,1966,Not Rated,131,['Drama'],8.0,75.0,Mike Nichols,73887,,
+685,Mary and Max,2009,Not Rated,92,"['Animation', 'Comedy', 'Drama']",8.1,,Adam Elliot,173858,,205
+686,All About My Mother,1999,R,101,['Drama'],7.8,87.0,Pedro Almodóvar,94850,8.26,
+687,Happiness,1998,NC-17,134,"['Comedy', 'Drama']",7.7,81.0,Todd Solondz,69364,2.81,
+688,Badlands,1973,PG,94,"['Action', 'Crime', 'Drama']",7.8,93.0,Terrence Malick,71422,,
+689,The Best Years of Our Lives,1946,Approved,170,"['Drama', 'Romance', 'War']",8.1,93.0,William Wyler,62288,23.65,228
+690,Belle de Jour,1967,R,100,"['Drama', 'Romance']",7.7,,Luis Buñuel,43440,0.03,
+691,Pride,2014,R,119,"['Biography', 'Comedy', 'Drama']",7.8,79.0,Matthew Warchus,55360,,
+692,Gangs of Wasseypur,2012,Not Rated,321,"['Action', 'Comedy', 'Crime']",8.2,89.0,Anurag Kashyap,92919,,
+693,Andhadhun,2018,Not Rated,139,"['Comedy', 'Crime', 'Music']",8.2,,Sriram Raghavan,87970,1.37,
+694,Z,1969,M,127,"['Crime', 'Drama', 'History']",8.2,86.0,Costa-Gavras,27764,0.08,
+695,Leviathan,2014,R,140,"['Crime', 'Drama']",7.6,92.0,Andrey Zvyagintsev,52562,1.09,
+696,To Have and Have Not,1944,Passed,100,"['Adventure', 'Comedy', 'Film-Noir']",7.8,90.0,Howard Hawks,33919,,
+697,Me and Earl and the Dying Girl,2015,PG-13,105,"['Comedy', 'Drama']",7.7,74.0,Alfonso Gomez-Rejon,129333,6.74,
+698,A Very Long Engagement,2004,R,133,"['Drama', 'Mystery', 'Romance']",7.6,76.0,Jean-Pierre Jeunet,73254,6.17,
+699,Nebraska,2013,R,115,"['Adventure', 'Comedy', 'Drama']",7.7,87.0,Alexander Payne,116735,17.65,
+700,The Killing Fields,1984,R,141,"['Biography', 'Drama', 'History']",7.8,76.0,Roland Joffé,54758,34.7,
+701,Ayla: The Daughter of War,2017,,125,"['Biography', 'Drama', 'History']",8.5,,Can Ulkay,38418,,
+702,Cries & Whispers,1972,R,91,['Drama'],8.0,,Ingmar Bergman,33287,1.74,
+703,Once Were Warriors,1994,R,102,"['Crime', 'Drama']",7.9,77.0,Lee Tamahori,33667,2.2,
+704,Dancer in the Dark,2000,R,140,"['Crime', 'Drama', 'Musical']",8.0,61.0,Lars von Trier,107909,4.18,
+705,Loving Vincent,2017,PG-13,94,"['Animation', 'Biography', 'Crime']",7.8,62.0,Dorota Kobiela,56239,6.74,
+706,25th Hour,2002,R,135,['Drama'],7.6,68.0,Spike Lee,176700,13.06,
+707,The Day the Earth Stood Still,1951,G,92,"['Drama', 'Sci-Fi']",7.8,,Robert Wise,80696,,
+708,Out of the Past,1947,Not Rated,97,"['Crime', 'Drama', 'Film-Noir']",8.0,,Jacques Tourneur,36203,,
+709,Breathless,1960,Not Rated,90,"['Crime', 'Drama']",7.7,,Jean-Luc Godard,79164,0.34,
+710,Notorious,1946,Not Rated,102,"['Drama', 'Film-Noir', 'Romance']",7.9,100.0,Alfred Hitchcock,99237,10.46,
+711,Mirror,1975,Not Rated,107,"['Biography', 'Drama']",8.0,80.0,Andrei Tarkovsky,44983,0.18,
+712,The Man from Nowhere,2010,R,119,"['Action', 'Crime', 'Drama']",7.7,,Jeong-beom Lee,68010,0.01,
+713,A Christmas Story,1983,PG,93,"['Comedy', 'Family']",8.0,77.0,Bob Clark,145825,20.61,
+714,Bicycle Thieves,1948,Not Rated,89,['Drama'],8.3,,Vittorio De Sica,159497,0.33,121
+715,Kubo and the Two Strings,2016,PG,101,"['Animation', 'Action', 'Adventure']",7.8,84.0,Travis Knight,126131,48.02,
+716,Three Colors: Blue,1993,R,94,"['Drama', 'Music', 'Mystery']",7.9,85.0,Krzysztof Kieslowski,99059,1.32,
+717,Shershaah,2021,TV-14,135,"['Action', 'Biography', 'Drama']",8.9,,Vishnuvardhan,113771,,
+718,Rope,1948,Approved,80,"['Crime', 'Drama', 'Mystery']",8.0,73.0,Alfred Hitchcock,139720,,
+719,The Verdict,1982,R,129,['Drama'],7.7,77.0,Sidney Lumet,39403,54.0,
+720,Wild Strawberries,1957,Not Rated,91,"['Drama', 'Romance']",8.2,88.0,Ingmar Bergman,104813,,186
+721,3-Iron,2004,R,88,"['Crime', 'Drama', 'Romance']",7.9,72.0,Kim Ki-duk,54208,0.24,
+722,Fantasia,1940,G,125,"['Animation', 'Family', 'Fantasy']",7.7,96.0,James Algar,93958,76.41,
+723,Frankenstein,1931,Passed,70,"['Drama', 'Horror', 'Sci-Fi']",7.8,91.0,James Whale,70582,,
+724,Whisper of the Heart,1995,G,111,"['Animation', 'Drama', 'Family']",7.9,75.0,Yoshifumi Kondô,59618,,
+725,Tangerines,2013,Not Rated,87,"['Drama', 'War']",8.1,73.0,Zaza Urushadze,45369,0.14,
+726,The Red Shoes,1948,Not Rated,135,"['Drama', 'Music', 'Romance']",8.1,,Michael Powell,34050,10.9,
+727,The Manchurian Candidate,1962,PG-13,126,"['Drama', 'Thriller']",7.9,94.0,John Frankenheimer,74564,,
+728,Happy Together,1997,,96,"['Drama', 'Romance']",7.7,70.0,Kar-Wai Wong,27537,0.19,
+729,"South Park: Bigger, Longer & Uncut",1999,R,81,"['Animation', 'Comedy', 'Fantasy']",7.7,73.0,Trey Parker,201328,52.04,
+730,The Big Sleep,1946,Passed,114,"['Crime', 'Film-Noir', 'Mystery']",7.9,,Howard Hawks,84065,6.54,
+731,The Cabinet of Dr. Caligari,1920,Not Rated,67,"['Horror', 'Mystery', 'Thriller']",8.0,,Robert Wiene,61996,,
+732,Cat on a Hot Tin Roof,1958,Not Rated,108,['Drama'],8.0,84.0,Richard Brooks,48450,17.57,
+733,High and Low,1963,Not Rated,143,"['Crime', 'Drama', 'Mystery']",8.4,,Akira Kurosawa,41960,,94
+734,Strangers on a Train,1951,PG,101,"['Crime', 'Drama', 'Film-Noir']",7.9,88.0,Alfred Hitchcock,131540,7.63,
+735,The Legend of 1900,1998,R,169,"['Drama', 'Music', 'Romance']",8.0,58.0,Giuseppe Tornatore,62913,0.26,
+736,Stalag 17,1953,Not Rated,120,"['Comedy', 'Drama', 'War']",8.0,84.0,Billy Wilder,54979,,
+737,Amour,2012,PG-13,127,['Drama'],7.9,94.0,Michael Haneke,98342,6.74,
+738,Andrei Rublev,1966,R,205,"['Biography', 'Drama', 'History']",8.1,,Andrei Tarkovsky,52516,0.1,
+739,East of Eden,1955,PG,118,['Drama'],7.8,72.0,Elia Kazan,44598,,
+740,Wings of Desire,1987,PG-13,128,"['Drama', 'Fantasy', 'Romance']",8.0,79.0,Wim Wenders,69470,3.33,
+741,Yojimbo,1961,Not Rated,110,"['Action', 'Drama', 'Thriller']",8.2,93.0,Akira Kurosawa,119925,,145
+742,United 93,2006,R,111,"['Action', 'Drama', 'History']",7.6,90.0,Paul Greengrass,105047,31.57,
+743,Underground,1995,Not Rated,167,"['Comedy', 'Drama', 'Fantasy']",8.1,79.0,Emir Kusturica,57727,0.17,
+744,From Here to Eternity,1953,Passed,118,"['Drama', 'Romance', 'War']",7.6,85.0,Fred Zinnemann,46154,30.5,
+745,The Treasure of the Sierra Madre,1948,Passed,126,"['Adventure', 'Drama', 'Western']",8.2,98.0,John Huston,122188,5.01,146
+746,Three Colors: Red,1994,R,99,"['Drama', 'Mystery', 'Romance']",8.1,100.0,Krzysztof Kieslowski,100739,4.04,
+747,The 39 Steps,1935,Approved,86,"['Crime', 'Mystery', 'Thriller']",7.6,93.0,Alfred Hitchcock,55907,,
+748,Ikiru,1952,Not Rated,143,['Drama'],8.3,91.0,Akira Kurosawa,75990,0.06,115
+749,Breaking the Waves,1996,R,159,['Drama'],7.8,76.0,Lars von Trier,65762,4.04,
+750,Short Cuts,1993,R,188,"['Comedy', 'Drama']",7.7,79.0,Robert Altman,44339,6.11,
+751,The Double Life of Véronique,1991,R,98,"['Drama', 'Fantasy', 'Music']",7.7,86.0,Krzysztof Kieslowski,47199,2.0,
+752,Nashville,1975,R,160,"['Comedy', 'Drama', 'Music']",7.7,96.0,Robert Altman,25817,14.82,
+753,The Chaser,2008,Not Rated,125,"['Action', 'Crime', 'Drama']",7.8,64.0,Na Hong-jin,64251,,
+754,The 400 Blows,1959,Not Rated,99,"['Crime', 'Drama']",8.1,,François Truffaut,114514,,241
+755,Porco Rosso,1992,PG,94,"['Animation', 'Adventure', 'Comedy']",7.7,83.0,Hayao Miyazaki,86150,,
+756,Zindagi Na Milegi Dobara,2011,Not Rated,155,"['Comedy', 'Drama', 'Musical']",8.2,,Zoya Akhtar,75026,3.11,
+757,The Vanishing,1988,Not Rated,107,"['Mystery', 'Thriller']",7.7,,George Sluizer,37854,,
+758,Touch of Evil,1958,PG-13,95,"['Crime', 'Drama', 'Film-Noir']",8.0,99.0,Orson Welles,102971,2.24,
+759,96,2018,Not Rated,158,"['Drama', 'Romance']",8.6,,C. Prem Kumar,27857,,
+760,Zulu,1964,Not Rated,138,"['Drama', 'History', 'War']",7.7,77.0,Cy Endfield,38526,,
+761,Invasion of the Body Snatchers,1956,Approved,80,"['Drama', 'Horror', 'Sci-Fi']",7.7,92.0,Don Siegel,48517,,
+762,The Straight Story,1999,G,112,"['Biography', 'Drama']",8.0,86.0,David Lynch,88706,6.2,
+763,Battleship Potemkin,1925,Not Rated,66,"['Drama', 'History', 'Thriller']",8.0,97.0,Sergei Eisenstein,56675,0.05,
+764,Mr. Smith Goes to Washington,1939,Passed,129,"['Comedy', 'Drama']",8.1,73.0,Frank Capra,113618,9.6,190
+765,All Quiet on the Western Front,1930,Passed,152,"['Drama', 'War']",8.1,91.0,Lewis Milestone,60397,3.27,
+766,Dragon Ball Super: Broly,2018,PG,100,"['Animation', 'Action', 'Adventure']",7.8,59.0,Tatsuya Nagamine,25801,30.71,
+767,Children of Heaven,1997,PG,89,"['Drama', 'Family', 'Sport']",8.2,77.0,Majid Majidi,72791,0.93,178
+768,Fantastic Planet,1973,PG,72,"['Animation', 'Sci-Fi']",7.7,73.0,René Laloux,29716,0.19,
+769,Infernal Affairs,2002,R,101,"['Action', 'Crime', 'Drama']",8.0,75.0,Andrew Lau,122921,0.17,
+770,Secrets & Lies,1996,R,136,"['Comedy', 'Drama']",8.0,91.0,Mike Leigh,42250,13.42,
+771,Manhattan,1979,R,96,"['Comedy', 'Drama', 'Romance']",7.9,83.0,Woody Allen,138263,45.7,
+772,Waking Life,2001,R,99,"['Animation', 'Drama', 'Fantasy']",7.7,83.0,Richard Linklater,63301,2.89,
+773,Cowboy Bebop: The Movie,2001,TV-14,115,"['Animation', 'Action', 'Crime']",7.8,61.0,Shin'ichirô Watanabe,47431,1.0,
+774,The African Queen,1951,PG,105,"['Adventure', 'Drama', 'Romance']",7.7,91.0,John Huston,77358,0.54,
+775,City Lights,1931,G,87,"['Comedy', 'Drama', 'Romance']",8.5,99.0,Charles Chaplin,180238,0.02,52
+776,Repulsion,1965,Not Rated,105,"['Drama', 'Horror', 'Thriller']",7.6,91.0,Roman Polanski,52291,,
+777,Lilya 4-Ever,2002,R,109,"['Crime', 'Drama']",7.8,82.0,Lukas Moodysson,45004,0.18,
+778,Dersu Uzala,1975,G,142,"['Adventure', 'Biography', 'Drama']",8.3,,Akira Kurosawa,27542,,227
+779,The Sacrifice,1986,PG,149,['Drama'],7.9,,Andrei Tarkovsky,27481,0.3,
+780,When Marnie Was There,2014,PG,103,"['Animation', 'Drama', 'Family']",7.7,72.0,Hiromasa Yonebayashi,38436,0.77,
+781,The Bride of Frankenstein,1935,Not Rated,75,"['Drama', 'Horror', 'Sci-Fi']",7.8,95.0,James Whale,47176,4.36,
+782,Song of the Sea,2014,PG,93,"['Animation', 'Adventure', 'Drama']",8.1,85.0,Tomm Moore,56856,0.86,
+783,A Prophet,2009,R,155,"['Crime', 'Drama']",7.8,90.0,Jacques Audiard,97531,2.08,
+784,The Day of the Jackal,1973,PG,143,"['Crime', 'Drama', 'Thriller']",7.8,80.0,Fred Zinnemann,40162,16.06,
+785,The Sea Inside,2004,PG-13,126,"['Biography', 'Drama']",8.0,74.0,Alejandro Amenábar,80805,2.09,
+786,The Man Who Would Be King,1975,PG,129,"['Adventure', 'History', 'War']",7.8,91.0,John Huston,48109,,
+787,Land of Mine,2015,R,100,"['Drama', 'History', 'War']",7.8,75.0,Martin Zandvliet,39942,0.44,
+788,Elite Squad,2007,R,115,"['Action', 'Crime', 'Drama']",8.0,33.0,José Padilha,102309,0.01,
+789,Scarface,1932,PG,93,"['Action', 'Crime', 'Drama']",7.7,87.0,Howard Hawks,27426,,
+790,The White Ribbon,2009,R,144,"['Drama', 'History', 'Mystery']",7.8,82.0,Michael Haneke,72401,2.22,
+791,The Little Prince,2015,PG,108,"['Animation', 'Adventure', 'Drama']",7.7,70.0,Mark Osborne,60771,1.34,
+792,Soorarai Pottru,2020,TV-MA,153,['Drama'],9.3,,Sudha Kongara,107971,,
+793,Hannah and Her Sisters,1986,PG-13,107,"['Comedy', 'Drama']",7.9,90.0,Woody Allen,70544,40.08,
+794,The Diving Bell and the Butterfly,2007,PG-13,112,"['Biography', 'Drama']",8.0,92.0,Julian Schnabel,106784,5.99,
+795,The Tale of The Princess Kaguya,2013,PG,137,"['Animation', 'Drama', 'Family']",8.0,89.0,Isao Takahata,44463,1.51,
+796,The Battle of Algiers,1966,Not Rated,121,"['Drama', 'War']",8.1,96.0,Gillo Pontecorvo,58517,0.06,236
+797,Baahubali: The Beginning,2015,Not Rated,159,"['Action', 'Drama']",8.1,,S.S. Rajamouli,112302,6.74,
+798,A Man for All Seasons,1966,G,120,"['Biography', 'Drama', 'History']",7.7,72.0,Fred Zinnemann,33954,28.35,
+799,The Taking of Pelham One Two Three,1974,R,104,"['Action', 'Crime', 'Thriller']",7.7,68.0,Joseph Sargent,29919,2.49,
+800,Frost/Nixon,2008,R,122,"['Biography', 'Drama', 'History']",7.7,80.0,Ron Howard,106959,18.59,
+801,The Salesman,2016,PG-13,124,['Drama'],7.7,85.0,Asghar Farhadi,59082,2.4,
+802,Wolf Children,2012,PG,117,"['Animation', 'Drama', 'Fantasy']",8.1,71.0,Mamoru Hosoda,43332,,
+803,The Message,1976,PG,177,"['Biography', 'Drama', 'History']",8.1,,Moustapha Akkad,46576,,
+804,Control,2007,R,122,"['Biography', 'Drama', 'Music']",7.7,78.0,Anton Corbijn,64428,0.87,
+805,Harvey,1950,Approved,104,"['Comedy', 'Drama', 'Fantasy']",7.9,,Henry Koster,54866,,
+806,Raatchasan,2018,Not Rated,170,"['Crime', 'Drama', 'Mystery']",8.5,,Ram Kumar,38225,,
+807,My Name Is Khan,2010,PG-13,165,"['Drama', 'Romance']",8.0,50.0,Karan Johar,104421,4.02,
+808,Shadow of a Doubt,1943,PG,108,"['Film-Noir', 'Thriller']",7.8,94.0,Alfred Hitchcock,64093,,
+809,Nights of Cabiria,1957,Not Rated,110,['Drama'],8.1,,Federico Fellini,47836,0.75,
+810,Bringing Up Baby,1938,Passed,102,['Comedy'],7.8,91.0,Howard Hawks,60369,,
+811,Vikram Vedha,2017,Not Rated,147,"['Action', 'Crime', 'Drama']",8.4,,Gayatri,36216,,
+812,The Adventures of Robin Hood,1938,PG,102,"['Action', 'Adventure', 'Romance']",7.9,97.0,Michael Curtiz,50258,3.98,
+813,Gully Boy,2019,Not Rated,154,"['Drama', 'Music', 'Romance']",7.9,65.0,Zoya Akhtar,37415,5.57,
+814,Pather Panchali,1955,Not Rated,125,['Drama'],8.4,,Satyajit Ray,30769,0.54,189
+815,The Kid,1921,Passed,68,"['Comedy', 'Drama', 'Family']",8.3,,Charles Chaplin,123484,5.45,129
+816,No Man's Land,2001,R,98,"['Comedy', 'Drama', 'War']",7.9,84.0,Danis Tanovic,46606,1.06,
+817,The World's Fastest Indian,2005,PG-13,127,"['Biography', 'Drama', 'Sport']",7.8,68.0,Roger Donaldson,54096,5.13,
+818,Kal Ho Naa Ho,2003,Not Rated,186,"['Comedy', 'Drama', 'Musical']",8.0,54.0,Nikkhil Advani,67543,1.79,
+819,Tokyo Story,1953,Not Rated,136,['Drama'],8.2,,Yasujirô Ozu,59678,,211
+820,Red River,1948,Passed,133,"['Drama', 'Western']",7.8,,Howard Hawks,30635,,
+821,Ivan's Childhood,1962,Not Rated,95,"['Drama', 'War']",8.0,,Andrei Tarkovsky,35436,,
+822,The Leopard,1963,PG,186,"['Drama', 'History']",8.0,100.0,Luchino Visconti,25329,,
+823,The Asphalt Jungle,1950,Passed,112,"['Crime', 'Drama', 'Film-Noir']",7.8,,John Huston,26215,,
+824,The Thin Man,1934,TV-PG,91,"['Comedy', 'Mystery']",7.9,86.0,W.S. Van Dyke,28987,,
+825,Shine,1996,PG-13,105,"['Biography', 'Drama', 'Music']",7.7,87.0,Scott Hicks,53674,35.81,
+826,Drishyam,2015,Not Rated,163,"['Crime', 'Drama', 'Mystery']",8.2,,Nishikant Kamat,78782,0.74,
+827,Adam's Apples,2005,R,94,"['Comedy', 'Crime', 'Drama']",7.7,51.0,Anders Thomas Jensen,49713,0.0,
+828,Night on Earth,1991,R,129,"['Comedy', 'Drama']",7.7,68.0,Jim Jarmusch,59313,2.02,
+829,The Motorcycle Diaries,2004,R,126,"['Adventure', 'Biography', 'Drama']",7.8,75.0,Walter Salles,100206,16.76,
+830,Fitzcarraldo,1982,PG,158,"['Adventure', 'Drama']",8.0,,Werner Herzog,34181,,
+831,In Cold Blood,1967,R,134,"['Biography', 'Crime', 'Drama']",7.9,89.0,Richard Brooks,26168,,
+832,Three Colors: White,1994,R,92,"['Comedy', 'Drama', 'Romance']",7.6,88.0,Krzysztof Kieslowski,71508,1.46,
+833,Persepolis,2007,PG-13,96,"['Animation', 'Biography', 'Drama']",8.0,90.0,Vincent Paronnaud,93253,4.45,
+834,In a Lonely Place,1950,Not Rated,94,"['Drama', 'Film-Noir', 'Mystery']",7.9,,Nicholas Ray,30577,,
+835,Darbareye Elly,2009,TV-PG,119,"['Drama', 'Mystery']",8.0,87.0,Asghar Farhadi,52371,0.11,
+836,Le Samouraï,1967,GP,101,"['Crime', 'Drama']",8.0,,Jean-Pierre Melville,49958,0.04,
+837,Lagaan: Once Upon a Time in India,2001,PG,224,"['Drama', 'Musical', 'Sport']",8.1,84.0,Ashutosh Gowariker,111220,0.07,
+838,"Aguirre, the Wrath of God",1972,Not Rated,95,"['Action', 'Adventure', 'Biography']",7.9,,Werner Herzog,56014,,
+839,The Gold Rush,1925,Passed,95,"['Adventure', 'Comedy', 'Drama']",8.2,,Charles Chaplin,108901,5.45,175
+840,The Lady Vanishes,1938,Not Rated,96,"['Mystery', 'Thriller']",7.8,98.0,Alfred Hitchcock,51383,,
+841,The Invisible Man,1933,TV-PG,71,"['Horror', 'Sci-Fi']",7.7,87.0,James Whale,34048,,
+842,"I, Daniel Blake",2016,R,100,['Drama'],7.9,78.0,Ken Loach,58585,0.26,
+843,His Girl Friday,1940,Passed,92,"['Comedy', 'Drama', 'Romance']",7.9,,Howard Hawks,57488,0.3,
+844,Inherit the Wind,1960,Passed,128,"['Biography', 'Drama', 'History']",8.1,75.0,Stanley Kramer,29635,,
+845,Dreams,1990,PG,119,"['Drama', 'Fantasy']",7.7,,Akira Kurosawa,25904,1.96,
+846,Arsenic and Old Lace,1943,Not Rated,118,"['Comedy', 'Crime', 'Thriller']",7.9,,Frank Capra,69761,,
+847,The General,1926,Passed,67,"['Action', 'Adventure', 'Comedy']",8.2,,Clyde Bruckman,89104,1.03,184
+848,Cape Fear,1962,Passed,106,"['Drama', 'Thriller']",7.7,76.0,J. Lee Thompson,28606,,
+849,Head-On,2004,R,121,"['Drama', 'Romance']",7.9,78.0,Fatih Akin,53612,,
+850,The Umbrellas of Cherbourg,1964,Not Rated,91,"['Drama', 'Musical', 'Romance']",7.8,86.0,Jacques Demy,26769,0.03,
+851,Evil,2003,Not Rated,113,['Drama'],7.8,61.0,Mikael Håfström,37842,0.02,
+852,To Be or Not to Be,1942,Passed,99,"['Comedy', 'Romance', 'War']",8.2,86.0,Ernst Lubitsch,35462,,235
+853,Taste of Cherry,1997,Not Rated,95,['Drama'],7.7,80.0,Abbas Kiarostami,29212,0.31,
+854,Nobody Knows,2004,PG-13,141,['Drama'],8.0,88.0,Hirokazu Koreeda,27194,0.68,
+855,Eyes Without a Face,1960,Not Rated,90,"['Drama', 'Horror']",7.6,90.0,Georges Franju,30704,0.05,
+856,Sweet Smell of Success,1957,Approved,96,"['Drama', 'Film-Noir']",8.0,100.0,Alexander Mackendrick,30996,,
+857,The Odd Couple,1968,G,105,['Comedy'],7.7,86.0,Gene Saks,34290,44.53,
+858,Kagemusha,1980,PG,162,"['Drama', 'History', 'War']",7.9,84.0,Akira Kurosawa,35050,,
+859,A Wednesday,2008,Not Rated,104,"['Action', 'Crime', 'Drama']",8.1,,Neeraj Pandey,77497,,
+860,Time of the Gypsies,1988,R,142,"['Comedy', 'Crime', 'Drama']",8.1,,Emir Kusturica,30196,0.28,
+861,The Wages of Fear,1953,Not Rated,131,"['Adventure', 'Drama', 'Thriller']",8.2,85.0,Henri-Georges Clouzot,59569,,196
+862,Sunrise,1927,Passed,94,"['Drama', 'Romance']",8.1,,F.W. Murnau,50359,0.54,
+863,The Innocents,1961,Not Rated,100,['Horror'],7.8,88.0,Jack Clayton,29703,2.62,
+864,Wait Until Dark,1967,Not Rated,108,['Thriller'],7.7,81.0,Terence Young,30032,17.55,
+865,Nostalghia,1983,Not Rated,125,['Drama'],8.0,,Andrei Tarkovsky,26268,0.01,
+866,Ninja Scroll,1993,Not Rated,94,"['Animation', 'Action', 'Adventure']",7.8,,Yoshiaki Kawajiri,36700,,
+867,Badhaai Ho,2018,Not Rated,124,"['Comedy', 'Drama']",8.0,,Amit Ravindernath Sharma,32792,,
+868,Diabolique,1955,Not Rated,117,"['Crime', 'Drama', 'Horror']",8.1,,Henri-Georges Clouzot,64920,1.09,
+869,Hard Boiled,1992,R,128,"['Action', 'Crime', 'Thriller']",7.8,,John Woo,49564,,
+870,After the Wedding,2006,R,120,['Drama'],7.7,78.0,Susanne Bier,34193,0.41,
+871,The Conformist,1970,R,113,['Drama'],7.9,100.0,Bernardo Bertolucci,29640,0.54,
+872,Farewell My Concubine,1993,R,171,"['Drama', 'History', 'Music']",8.1,83.0,Kaige Chen,27798,5.22,
+873,Winter Sleep,2014,Not Rated,196,['Drama'],8.1,88.0,Nuri Bilge Ceylan,50716,0.17,
+874,The Passion of Joan of Arc,1928,Passed,114,"['Biography', 'Drama', 'History']",8.2,,Carl Theodor Dreyer,52966,0.02,207
+875,"Black Cat, White Cat",1998,R,127,"['Comedy', 'Crime', 'Romance']",8.0,73.0,Emir Kusturica,53139,0.35,
+876,Peeping Tom,1960,Not Rated,101,"['Drama', 'Horror', 'Thriller']",7.6,,Michael Powell,34447,0.08,
+877,Sleuth,1972,PG,138,"['Mystery', 'Thriller']",8.0,,Joseph L. Mankiewicz,47115,4.08,
+878,Dil Bechara,2020,Not Rated,101,"['Comedy', 'Drama', 'Romance']",8.1,,Mukesh Chhabra,127006,,
+879,L'Avventura,1960,Not Rated,144,"['Drama', 'Mystery', 'Romance']",7.8,,Michelangelo Antonioni,29061,,
+880,"Rome, Open City",1945,Not Rated,103,"['Drama', 'Thriller', 'War']",8.0,,Roberto Rossellini,25878,,
+881,Miracle on 34th Street,1947,Not Rated,96,"['Comedy', 'Drama', 'Family']",7.9,88.0,George Seaton,47170,2.65,
+882,The Chorus,2004,PG-13,97,"['Comedy', 'Drama', 'Music']",7.9,56.0,Christophe Barratier,60873,3.64,
+883,Throne of Blood,1957,Not Rated,110,"['Drama', 'History']",8.1,,Akira Kurosawa,51029,,
+884,Black,2005,Not Rated,122,['Drama'],8.2,,Sanjay Leela Bhansali,34607,0.73,
+885,In America,2002,PG-13,105,['Drama'],7.7,76.0,Jim Sheridan,42802,15.54,
+886,The Hidden Fortress,1958,Not Rated,126,"['Action', 'Adventure', 'Drama']",8.1,89.0,Akira Kurosawa,38160,,
+887,Down by Law,1986,R,107,"['Comedy', 'Crime', 'Drama']",7.7,75.0,Jim Jarmusch,50786,1.44,
+888,The Experiment,2001,R,120,"['Drama', 'Thriller']",7.7,60.0,Oliver Hirschbiegel,93170,0.14,
+889,Baahubali 2: The Conclusion,2017,Not Rated,167,"['Action', 'Drama']",8.3,,S.S. Rajamouli,85283,20.19,
+890,The Caine Mutiny,1954,Not Rated,124,"['Drama', 'War']",7.7,63.0,Edward Dmytryk,27208,21.75,
+891,Autumn Sonata,1978,PG,99,"['Drama', 'Music']",8.1,,Ingmar Bergman,33280,,
+892,The Broken Circle Breakdown,2012,Not Rated,111,"['Drama', 'Music', 'Romance']",7.7,70.0,Felix van Groeningen,40835,0.18,
+893,The Lunchbox,2013,PG,104,"['Drama', 'Romance']",7.8,76.0,Ritesh Batra,54737,4.23,
+894,Vivre Sa Vie,1962,Not Rated,85,['Drama'],7.9,,Jean-Luc Godard,30879,,
+895,The Exterminating Angel,1962,Not Rated,95,"['Drama', 'Fantasy']",8.0,,Luis Buñuel,32524,,
+896,Hera Pheri,2000,Not Rated,156,"['Action', 'Comedy', 'Crime']",8.1,,Priyadarshan,64328,,
+897,The Girl Who Leapt Through Time,2006,TV-PG,98,"['Animation', 'Adventure', 'Comedy']",7.7,,Mamoru Hosoda,64656,,
+898,My Sassy Girl,2001,Not Rated,137,"['Comedy', 'Drama', 'Romance']",8.0,,Jae-young Kwak,47547,,
+899,Tokyo Godfathers,2003,PG-13,92,"['Animation', 'Adventure', 'Comedy']",7.8,73.0,Satoshi Kon,38089,0.13,
+900,My Father and My Son,2005,Not Rated,112,"['Drama', 'Family']",8.3,,Cagan Irmak,84978,,233
+901,Crimes and Misdemeanors,1989,PG-13,104,"['Comedy', 'Drama']",7.9,77.0,Woody Allen,57317,18.25,
+902,Ace in the Hole,1951,Approved,111,"['Drama', 'Film-Noir']",8.1,72.0,Billy Wilder,35004,3.97,
+903,The Discreet Charm of the Bourgeoisie,1972,PG,102,['Comedy'],7.8,93.0,Luis Buñuel,42015,0.2,
+904,Article 15,2019,Not Rated,130,"['Crime', 'Drama', 'Mystery']",8.2,,Anubhav Sinha,29564,,
+905,Joyeux Noel,2005,PG-13,116,"['Drama', 'History', 'Music']",7.7,70.0,Christian Carion,29537,1.05,
+906,Jab We Met,2007,Not Rated,138,"['Comedy', 'Drama', 'Romance']",7.9,,Imtiaz Ali,51499,0.41,
+907,"4 Months, 3 Weeks and 2 Days",2007,Not Rated,113,['Drama'],7.9,97.0,Cristian Mungiu,59308,1.19,
+908,The Ladykillers,1955,Not Rated,91,"['Comedy', 'Crime']",7.6,91.0,Alexander Mackendrick,28832,,
+909,Uri: The Surgical Strike,2019,Not Rated,138,"['Action', 'Drama', 'War']",8.4,,Aditya Dhar,55697,4.19,
+910,Dara of Jasenovac,2020,R,130,"['Drama', 'War']",8.9,,Predrag Antonijevic,80453,,
+911,The Triplets of Belleville,2003,PG-13,80,"['Animation', 'Comedy', 'Drama']",7.8,91.0,Sylvain Chomet,53874,7.0,
+912,Departures,2008,PG-13,130,"['Drama', 'Music']",8.0,68.0,Yôjirô Takita,51365,1.5,
+913,Confessions,2010,Not Rated,106,"['Drama', 'Thriller']",7.7,,Tetsuya Nakashima,38283,,
+914,The Purple Rose of Cairo,1985,PG,82,"['Comedy', 'Fantasy', 'Romance']",7.7,75.0,Woody Allen,50867,10.63,
+915,The Big Heat,1953,Not Rated,89,"['Crime', 'Film-Noir', 'Thriller']",7.9,,Fritz Lang,26203,,
+916,"Spring, Summer, Fall, Winter... and Spring",2003,R,103,"['Drama', 'Romance']",8.0,85.0,Kim Ki-duk,81712,2.38,
+917,The Postman,1994,PG,108,"['Biography', 'Comedy', 'Drama']",7.8,81.0,Michael Radford,35869,21.85,
+918,Kahaani,2012,Not Rated,122,"['Mystery', 'Thriller']",8.1,,Sujoy Ghosh,61872,1.04,
+919,"Goodbye, Children",1987,PG,104,"['Drama', 'War']",8.0,88.0,Louis Malle,33276,4.54,
+920,Jules and Jim,1962,Not Rated,105,"['Drama', 'Romance']",7.7,97.0,François Truffaut,40607,,
+921,The Return,2003,Not Rated,110,['Drama'],7.9,82.0,Andrey Zvyagintsev,44956,0.5,
+922,The Shop Around the Corner,1940,Not Rated,99,"['Comedy', 'Drama', 'Romance']",8.1,96.0,Ernst Lubitsch,32169,0.2,
+923,Hiroshima Mon Amour,1959,Not Rated,90,"['Drama', 'Romance']",7.9,,Alain Resnais,31125,0.09,
+924,Celda 211,2009,,113,"['Action', 'Crime', 'Drama']",7.6,,Daniel Monzón,66797,,
+925,Bajrangi Bhaijaan,2015,Not Rated,163,"['Action', 'Adventure', 'Comedy']",8.2,,Kabir Khan,83743,8.18,
+926,The Bandit,1996,Not Rated,128,"['Crime', 'Drama', 'Thriller']",8.2,,Yavuz Turgul,69318,,
+927,Dil Chahta Hai,2001,Not Rated,183,"['Comedy', 'Drama', 'Romance']",8.1,,Farhan Akhtar,70782,0.3,
+928,Chhichhore,2019,Not Rated,143,"['Comedy', 'Drama', 'Romance']",8.5,,Nitesh Tiwari,48138,0.9,
+929,Raise the Red Lantern,1991,PG,125,"['Drama', 'History', 'Romance']",8.1,,Yimou Zhang,31942,2.6,
+930,Kind Hearts and Coronets,1949,Not Rated,106,"['Comedy', 'Crime']",8.0,,Robert Hamer,36733,,
+931,The Virgin Spring,1960,Not Rated,89,['Drama'],8.1,,Ingmar Bergman,28647,1.53,
+932,Hindi Medium,2017,Not Rated,132,"['Comedy', 'Drama']",7.9,,Saket Chaudhary,27408,,
+933,Joint Security Area,2000,Not Rated,110,"['Action', 'Drama', 'Thriller']",7.8,58.0,Park Chan-wook,29259,,
+934,The Killer,1989,R,111,"['Action', 'Crime', 'Drama']",7.8,82.0,John Woo,47743,,
+935,Duck Soup,1933,Not Rated,69,"['Comedy', 'Musical']",7.8,93.0,Leo McCarey,59449,,
+936,Talvar,2015,Not Rated,132,"['Crime', 'Drama', 'Mystery']",8.1,,Meghna Gulzar,34329,0.34,
+937,Dilwale Dulhania Le Jayenge,1995,Not Rated,181,"['Drama', 'Romance']",8.2,,Aditya Chopra,67739,,
+938,Vera Drake,2004,R,125,"['Crime', 'Drama']",7.7,83.0,Mike Leigh,25229,3.75,
+939,The Past,2013,PG-13,130,"['Drama', 'Mystery']",7.7,85.0,Asghar Farhadi,48253,1.33,
+940,White Heat,1949,Not Rated,114,"['Action', 'Crime', 'Drama']",8.1,,Raoul Walsh,32186,,
+941,Love and Death,1975,PG,85,"['Comedy', 'War']",7.7,89.0,Woody Allen,38038,,
+942,Drishyam,2013,Not Rated,160,"['Crime', 'Drama', 'Thriller']",8.3,,Jeethu Joseph,39941,,
+943,Rififi,1955,Not Rated,118,"['Crime', 'Drama', 'Thriller']",8.2,97.0,Jules Dassin,33450,0.06,
+944,The Magdalene Sisters,2002,R,114,['Drama'],7.7,83.0,Peter Mullan,27001,4.89,
+945,Queen,2013,Not Rated,146,"['Adventure', 'Comedy', 'Drama']",8.2,,Vikas Bahl,64622,1.43,
+946,Color It Yellow,2006,Not Rated,167,"['Comedy', 'Crime', 'Drama']",8.1,,Rakeysh Omprakash Mehra,117740,2.2,
+947,C.R.A.Z.Y.,2005,Not Rated,129,"['Comedy', 'Drama']",7.9,81.0,Jean-Marc Vallée,32608,,
+948,Sherlock Jr.,1924,Passed,45,"['Action', 'Comedy', 'Romance']",8.2,,Buster Keaton,47845,0.98,193
+949,Pink,2016,Not Rated,136,"['Crime', 'Drama', 'Thriller']",8.1,,Aniruddha Roy Chowdhury,43767,1.24,
+950,Masaan,2015,,109,['Drama'],8.1,,Neeraj Ghaywan,27119,,
+951,Millennium Actress,2001,PG,87,"['Animation', 'Drama', 'Fantasy']",7.8,70.0,Satoshi Kon,26809,0.19,
+952,Super 30,2019,Not Rated,154,"['Biography', 'Drama']",8.0,,Vikas Bahl,28953,2.27,
+953,Once Upon a Time in Anatolia,2011,Not Rated,157,"['Crime', 'Drama']",7.9,82.0,Nuri Bilge Ceylan,45545,0.14,
+954,Haider,2014,Not Rated,160,"['Action', 'Crime', 'Drama']",8.2,,Vishal Bhardwaj,53146,0.9,
+955,Jean de Florette,1986,PG,120,"['Comedy', 'Drama']",8.1,,Claude Berri,25423,4.94,
+956,Barfi!,2012,Not Rated,151,"['Comedy', 'Drama', 'Romance']",8.2,,Anurag Basu,80192,2.8,
+957,Le Dîner de Cons,1998,PG-13,80,['Comedy'],7.6,73.0,Francis Veber,40874,4.07,
+958,The Grand Illusion,1937,Not Rated,113,"['Drama', 'War']",8.1,,Jean Renoir,36012,0.17,
+959,The Rules of the Game,1939,Not Rated,110,"['Comedy', 'Drama']",7.9,,Jean Renoir,28506,,
+960,Beauty and the Beast,1946,Not Rated,93,"['Drama', 'Fantasy', 'Romance']",7.9,92.0,Jean Cocteau,26052,0.3,
+961,Udta Punjab,2016,Not Rated,148,"['Action', 'Crime', 'Drama']",7.8,,Abhishek Chaubey,29685,,
+962,G.O.R.A.,2003,,127,"['Adventure', 'Comedy', 'Sci-Fi']",8.1,,Ömer Faruk Sorak,61316,,
+963,English Vinglish,2012,Not Rated,134,"['Comedy', 'Drama', 'Family']",7.9,,Gauri Shinde,35654,1.67,
+964,Nine Queens,2000,R,114,"['Crime', 'Drama', 'Thriller']",7.9,80.0,Fabián Bielinsky,52150,1.22,
+965,Drishyam 2,2021,,152,"['Crime', 'Drama', 'Thriller']",8.6,,Jeethu Joseph,34109,,
+966,Special 26,2013,Not Rated,144,"['Crime', 'Drama', 'Thriller']",8.1,,Neeraj Pandey,55024,1.08,
+967,Tae Guk Gi: The Brotherhood of War,2004,R,140,"['Action', 'Drama', 'War']",8.0,64.0,Je-kyu Kang,39336,1.11,
+968,Sullivan's Travels,1941,Passed,90,"['Adventure', 'Comedy', 'Drama']",7.9,,Preston Sturges,25898,,
+969,Asuran,2019,Not Rated,141,"['Action', 'Drama']",8.6,,Vetrimaaran,25453,,
+970,Elite Squad 2: The Enemy Within,2010,Not Rated,115,"['Action', 'Crime', 'Drama']",8.0,71.0,José Padilha,82132,0.1,
+971,Baby,2015,Not Rated,159,"['Action', 'Crime', 'Thriller']",8.1,,Neeraj Pandey,56520,,
+972,Swades,2004,Not Rated,189,"['Drama', 'Musical']",8.3,,Ashutosh Gowariker,88582,1.22,
+973,Sanjuro,1962,Not Rated,96,"['Action', 'Drama', 'Thriller']",8.0,,Akira Kurosawa,37438,,
+974,Fireworks,1997,,103,"['Crime', 'Drama', 'Romance']",7.7,,Takeshi Kitano,30034,0.23,
+975,Central Station,1998,R,110,['Drama'],8.0,80.0,Walter Salles,38948,5.6,
+976,M.S. Dhoni: The Untold Story,2016,Not Rated,184,"['Biography', 'Drama', 'Sport']",8.1,,Neeraj Pandey,51488,1.78,
+977,The Muppet Christmas Carol,1992,G,85,"['Comedy', 'Drama', 'Family']",7.7,64.0,Brian Henson,57234,27.28,
+978,Zelig,1983,PG,79,['Comedy'],7.7,,Woody Allen,41675,11.8,
+979,Dev.D,2009,Not Rated,144,"['Comedy', 'Drama', 'Romance']",8.0,,Anurag Kashyap,30273,0.01,
+980,Andaz Apna Apna,1994,Not Rated,160,"['Action', 'Comedy', 'Romance']",8.1,,Rajkumar Santoshi,52549,,
+981,A Night at the Opera,1935,Passed,96,"['Comedy', 'Music', 'Musical']",7.8,,Sam Wood,32459,2.54,
+982,Paan Singh Tomar,2012,Not Rated,135,"['Action', 'Biography', 'Crime']",8.2,,Tigmanshu Dhulia,35641,0.04,
+983,Veer Zaara,2004,Not Rated,192,"['Drama', 'Family', 'Musical']",7.9,67.0,Yash Chopra,51935,2.92,
+984,The Circus,1928,Passed,72,"['Comedy', 'Family', 'Romance']",8.1,90.0,Charles Chaplin,33056,,
+985,Knockin' on Heaven's Door,1997,Not Rated,87,"['Action', 'Crime', 'Comedy']",7.9,,Thomas Jahn,29714,0.0,
+986,Sholay,1975,Not Rated,162,"['Action', 'Adventure', 'Comedy']",8.1,,Ramesh Sippy,54634,,
+987,Munna Bhai M.B.B.S.,2003,Not Rated,156,"['Comedy', 'Drama']",8.1,,Rajkumar Hirani,79569,,
+988,"Carry On, Munna Bhai",2006,Not Rated,144,"['Comedy', 'Drama', 'Romance']",8.1,,Rajkumar Hirani,46102,2.22,
+989,The Edge of Heaven,2007,Not Rated,122,['Drama'],7.8,85.0,Fatih Akin,31850,0.74,
+990,Vicky Donor,2012,Not Rated,126,"['Comedy', 'Romance']",7.8,,Shoojit Sircar,42459,0.17,
+991,OMG: Oh My God!,2012,Not Rated,125,"['Comedy', 'Drama', 'Fantasy']",8.2,,Umesh Shukla,56732,0.92,
+992,Let's Go! India,2007,Not Rated,153,"['Drama', 'Family', 'Sport']",8.2,68.0,Shimit Amin,78641,1.11,
+993,Bhaag Milkha Bhaag,2013,Not Rated,186,"['Biography', 'Drama', 'Sport']",8.3,,Rakeysh Omprakash Mehra,66166,1.63,
+994,Airlift,2016,Not Rated,130,"['Drama', 'History']",8.1,,Raja Menon,56025,,
+995,The Breath,2009,,128,"['Action', 'Drama', 'Thriller']",8.1,,Levent Semerci,33287,,
+996,Udaan,2010,Not Rated,134,['Drama'],8.1,,Vikramaditya Motwane,44490,0.01,
+997,Sarfarosh,1999,Not Rated,174,"['Action', 'Drama', 'Thriller']",8.1,,John Mathew Matthan,25286,,
+998,Anand,1971,Not Rated,122,"['Drama', 'Musical']",8.1,,Hrishikesh Mukherjee,33308,,
+999,Vizontele,2001,,110,"['Comedy', 'Drama']",8.0,,Yilmaz Erdogan,36049,,
